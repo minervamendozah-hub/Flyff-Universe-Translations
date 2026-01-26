@@ -15,7 +15,7 @@ TEXTCLIENT_APP_OPTION,Options,设置
 TEXTCLIENT_APP_LOGOUT,Logout,重新登陆
 TEXTCLIENT_APP_QUIT,Quit,退出游戏
 TEXTCLIENT_APP_SUPPORT,Support,支持
-TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_PRIVACY,Privacy,隐私
 TEXTCLIENT_APP_NAVIGATOR,Navigator,导航系统
 TEXTCLIENT_APP_DEBUG,Debug,bug反馈
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒后，结束游戏
@@ -1197,7 +1197,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,There is no artifact battle this week. Please try again next week!
 TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,You can only place a guild house NPC here.
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,无法使用该物品。
-TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Successfully submitted.
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,提交成功.
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,You can only place a Personal House NPC here.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,This artifact spawn position is already taken by another guild.
 TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,You can't have more than %d props placed at the same time!

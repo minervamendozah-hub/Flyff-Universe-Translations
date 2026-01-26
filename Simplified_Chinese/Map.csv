@@ -5,7 +5,7 @@ PROPMAP_TXT_000002,Region,地区
 PROPMAP_TXT_000003,Town,城镇
 PROPMAP_TXT_000004,Madrigal,瑞加大陆
 PROPMAP_TXT_000005,"Darkon 1, 2",达肯1区，达肯2区
-PROPMAP_TXT_000006,Darkon 3,达肯3
+PROPMAP_TXT_000006,Darkon 3,达肯3区
 PROPMAP_TXT_000007,Garden of Rhisis,莱斯庭院
 PROPMAP_TXT_000008,Saint Morning,晨光
 PROPMAP_TXT_000009,Flaris,帕里
@@ -80,13 +80,13 @@ PROPMAP_TXT_100055,Leren Chasm (Medium),乐雅裂痕 (中等)
 PROPMAP_TXT_100056,Leren Chasm (Hard),乐雅裂痕 (高级)
 PROPMAP_TXT_100057,Leren Chasm (Extra Hard),乐雅裂痕 (困难)
 PROPMAP_TXT_100058,Leren Chasm (Nightmare),乐雅裂痕 (噩梦)
-PROPMAP_TXT_100059,Rhisis Catacombs (Hard),莱斯神之墓(困难)
-PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),莱斯神之墓(噩梦)
-PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),莱斯神之墓(地狱)
+PROPMAP_TXT_100059,Rhisis Catacombs (Hard),莱斯神之墓 (困难)
+PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),莱斯神之墓 (噩梦)
+PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),莱斯神之墓 (地狱)
 PROPMAP_TXT_100062,Envy Depths (Extra Hard),渴望深渊 (困难)
 PROPMAP_TXT_100063,Envy Depths (Nightmare),渴望深渊 (噩梦)
 PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),堕落圣域 (噩梦)
-PROPMAP_TXT_100065,Envy Depths (Medium),渴望深渊(中等)
+PROPMAP_TXT_100065,Envy Depths (Medium),渴望深渊 (中等)
 PROPMAP_TXT_100066,Eggcellent's Meadow,Eggcellent's Meadow
 PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),Eggcellent's Meadow (Medium)
 PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),Eggcellent's Meadow (Hard)
@@ -98,7 +98,7 @@ PROPMAP_TXT_100073,Storm Peak (Story),风暴之巅 (剧情)
 PROPMAP_TXT_200000,The Colosseum,The Colosseum
 PROPMAP_TXT_100074,The Wilds (Story),荒野 (剧情)
 PROPMAP_TXT_100075,The Wilds,荒野
-PROPMAP_TXT_230001,Instance,独立副本
+PROPMAP_TXT_230001,Instance,副本
 PROPMAP_TXT_100076,FWC Arena,FWC竞技场
 PROPMAP_TXT_100081,Leren Chasm (Cursed),Leren Chasm (Cursed)
 PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),Rhisis Catacombs (Cursed)
