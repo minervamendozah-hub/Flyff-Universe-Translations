@@ -1043,7 +1043,7 @@ UI_TOOLTIP_AROUND,Around,周圍
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,基礎回復：%d
 UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
 UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,基礎持續時間：%.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Giants)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,機率：%d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Giants)
@@ -3119,7 +3119,7 @@ UI_PVPMATCHRECAP_TITLE_2,Match Result,Match Result
 UI_PVPMATCHRECAP_NAME,Name,名稱
 UI_PVPMATCHRECAP_JOB,Job,職業
 UI_PVPMATCHRECAP_LEVEL,Level,等級
-UI_PVPMATCHRECAP_WINNER,Winner,Winner
+UI_PVPMATCHRECAP_WINNER,Winner,勝利者
 UI_PVPMATCHRECAP_LOSER,Loser,Loser
 UI_PVPMATCHRECAP_TOTAL,Total,總額
 UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Revolutionary's Secret Journal

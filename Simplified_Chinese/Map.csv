@@ -12,7 +12,7 @@ PROPMAP_TXT_000009,Flaris,帕里
 PROPMAP_TXT_000012,Flarine,帕里镇
 PROPMAP_TXT_000013,Saint City,晨光镇
 PROPMAP_TXT_000014,Darken,达肯2区
-PROPMAP_TXT_000242,Dungeon,地牢
+PROPMAP_TXT_000242,Dungeon,副本
 PROPMAP_TXT_000263,Mars Dungeon,魔域密殿
 PROPMAP_TXT_000265,Dekane Mine,达肯矿洞
 PROPMAP_TXT_000266,Iblis Temple,幻魔依普利神殿
@@ -147,13 +147,13 @@ PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (H
 PROPMAP_TXT_200025,Snowfield,Snowfield
 PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
 PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
-PROPMAP_TXT_200028,Eillun,Eillun
-PROPMAP_TXT_200029,Kaillun,Kaillun
+PROPMAP_TXT_200028,Eillun,艾尔伦
+PROPMAP_TXT_200029,Kaillun,凯伦
 PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
 PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
 PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
 PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
 PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
 PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
-PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),安库的庇护所 (剧情模式)
 PROPMAP_TXT_200037,Seabed,Seabed

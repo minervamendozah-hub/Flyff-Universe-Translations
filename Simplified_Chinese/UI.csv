@@ -656,7 +656,7 @@ UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,发型风格
 UI_BEAUTY_SHOP_PREVIEW,Preview,预览
 UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,发型价格
 UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,发色价格
-UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,所有的：
+UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,总计：
 UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,购买确认
 UI_OPTION_TRADE,Trade Requests,交易请求
 UI_TRADE_REQUEST_TITLE,Trade,交易
@@ -1043,7 +1043,7 @@ UI_TOOLTIP_AROUND,Around,周围
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,基础治疗量：%d
 UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
 UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,基础持续时间: %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP&BOSS)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,概率: %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP&BOSS)
@@ -1206,7 +1206,7 @@ UI_GROUPSEARCH_LEADERLEVEL,Leader Level,剧团团长等级
 UI_GROUPSEARCH_LEADERNAME,Leader Name,剧团团长名称
 UI_GROUPSEARCH_MASTERLEVEL,Master Level,大师等级
 UI_GROUPSEARCH_MASTERNAME,Master Name,会长名称
-UI_GROUPSEARCH_ALL,All,所有的
+UI_GROUPSEARCH_ALL,All,全部
 UI_GROUPSEARCH_FRIENDS,Friend Leaders,团长为好友
 UI_GROUPSEARCH_STRANGERS,Stranger Leaders,团长为陌生人
 UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,会长为好友
@@ -1226,7 +1226,7 @@ UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,快速售卖一类商�
 UI_SHOP_BUY_BACK,Buy Back,回购
 UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,回购您最近不小心错误出售的物品
 UI_SHOP_QUICK_SELL_CONFIRM,Sell,出售
-UI_SHOP_QUICK_SELL_TOTAL,Total:,所有的：
+UI_SHOP_QUICK_SELL_TOTAL,Total:,总计：
 UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,精良及其以下的
 UI_SHOP_QUICK_SELL_RARE,Rare & Lower,稀有及其以下的
 UI_SHOP_QUICK_SELL_FOOD,Food,食物
@@ -1440,7 +1440,7 @@ UI_PARTY_EXPBONUS,Exp Bonus,经验奖励
 UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.",你在剧团内获得的经验奖励。活跃成员是指那些参与当前战斗的成员。贡献包括输出、治疗和承伤。
 UI_PARTY_EXPBONUS_ACTIVE,x Active,x 活跃人数
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,受祝福的物品不能被丢弃或交易。
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
+UI_TOOLTIP_BLESSING,Goddess Blessing,女神的祝福
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,单击攻击
 UI_GEM_CREATE,Extract,提取
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,战斗力排行榜
@@ -2624,7 +2624,7 @@ UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,R
 UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
 UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
 UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
-UI_ALL,All,所有的
+UI_ALL,All,全部
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
@@ -2757,10 +2757,10 @@ UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disapp
 UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item will be lost.,Your Shop Advertisement item will be lost.
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神的祝福
 UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,恶魔的祝福
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,恶魔祝福
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,恶魔的祝福
 UI_CHARINFO_HOUSING_SLOTS,Pet inventory slots,Pet inventory slots
-UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
-UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Applying a Blessing will make the item soul-bound. Do you wish to continue?
+UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,使用祝福？
+UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,添加祝福将使物品绑定角色，确认继续吗？
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
 UI_TELEPORT_ARENA,Do you want to exit the arena?,Do you want to exit the arena?
@@ -3244,7 +3244,7 @@ UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Half Nen Consumption Chance
 UI_TOOLTIP_DST_STEALMP,MP Steal,MP Steal
 UI_TOOLTIP_DST_STEALFP,FP Steal,FP Steal
 UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
-UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
+UI_OPTION_QUICKCAST,Quick Cast,快捷施法
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
 UI_DUNGEONTIMERECAP_TIME,Time:,Time:

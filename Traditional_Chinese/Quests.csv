@@ -2152,20 +2152,20 @@ PROPQUEST_INC_150103,"I can’t thank you enough for your help. While you were g
 PROPQUEST_INC_150104,Gather 10 Abandoned Serial Number Chains,Gather 10 Abandoned Serial Number Chains
 PROPQUEST_INC_150105,Proficiency Test,Proficiency Test
 PROPQUEST_INC_150106,"Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it.","Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it."
-PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.","Defeat 20 Hundur Sharpfoots, and then I’ll believe you."
+PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.",打敗 20 個百夏足怪，我才會相信你。
 PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,Hmph! I knew it. You must be a spy!
 PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.
 PROPQUEST_INC_150110,(Hmm… seems stronger than me…),(Hmm… seems stronger than me…)
-PROPQUEST_INC_150111,Kill 20 Hundur Sharpfoots,Kill 20 Hundur Sharpfoots
+PROPQUEST_INC_150111,Kill 20 Hundur Sharpfoots,獵殺20隻百夏足
 PROPQUEST_INC_150112,Territorial Cats,Territorial Cats
 PROPQUEST_INC_150113,"That’s still not enough to convince me. I don’t even know who you really are. If you want to live alongside our village, you’ll need to prove yourself with your strength. Then at least we can rely on each other.","That’s still not enough to convince me. I don’t even know who you really are. If you want to live alongside our village, you’ll need to prove yourself with your strength. Then at least we can rely on each other."
-PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.","If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof."
+PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.",如果你真的想證明自己，那就打敗百夏足首領，然後把證據帶給我。
 PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.","At your current level, it might be difficult. I understand."
 PROPQUEST_INC_150116,Still not done? When exactly do you plan to enter the village?,Still not done? When exactly do you plan to enter the village?
 PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.","(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside."
-PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone
+PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,獵殺11名百夏足首領，並帶回1塊百骨。
 PROPQUEST_INC_150119,New Town Life?,New Town Life?
-PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off.","Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off."
+PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off.",歡迎，陌生人。你現在來到了艾倫鎮，米尤朗人的避難所。等等，你打敗了百夏足首領？啊，原來你中了他的圈套。我派他出去訓練只是因為他總是偷懶。
 PROPQUEST_INC_150121,"Don’t worry, I’ll give him a much harsher assignment next time. To stay in this village, you’ll need the captain’s approval. He’s strict, so expect more tests.","Don’t worry, I’ll give him a much harsher assignment next time. To stay in this village, you’ll need the captain’s approval. He’s strict, so expect more tests."
 PROPQUEST_INC_150122,You can find him over there. Go talk to him yourself.,You can find him over there. Go talk to him yourself.
 PROPQUEST_INC_150123,What will he ask you to do? No idea.,What will he ask you to do? No idea.
@@ -2555,7 +2555,7 @@ PROPQUEST_INC_150506,"Oh gods, thank you.","Oh gods, thank you."
 PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.","Think of it as helping the dead, just this once… Please, I beg you."
 PROPQUEST_INC_150508,"Have you retrieved it yet? Ah, not yet, I see.","Have you retrieved it yet? Ah, not yet, I see."
 PROPQUEST_INC_150509,I can’t thank you enough.,I can’t thank you enough.
-PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain
+PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,擊殺 50 隻小型百夏足怪，獲得 1 條廢棄序號鏈
 PROPQUEST_INC_150511,Clearing the Area,Clearing the Area
 PROPQUEST_INC_150512,There are so many Captain Kyouchish around that I can’t rest in peace. Could you take care of them?,There are so many Captain Kyouchish around that I can’t rest in peace. Could you take care of them?
 PROPQUEST_INC_150513,Thank you. I heard their howls coming from that way.,Thank you. I heard their howls coming from that way.
@@ -2564,19 +2564,19 @@ PROPQUEST_INC_150515,"I’m counting on you, sir.","I’m counting on you, sir."
 PROPQUEST_INC_150516,Now I can finally rest easy until the next ship arrives. Thank you.,Now I can finally rest easy until the next ship arrives. Thank you.
 PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,Kill 30 Captain Kyouchish
 PROPQUEST_INC_150518,Honor of a Warrior 1,Honor of a Warrior 1
-PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?","If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?"
+PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?",如果你自詡為凱倫的戰士，那麼擊敗百夏足只是熱身而已。想證明自己嗎？
 PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.","Alright, then. Take care of those beasts and come back."
 PROPQUEST_INC_150521,"If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth.","If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth."
 PROPQUEST_INC_150522,Good. This shouldn’t take you long.,Good. This shouldn’t take you long.
 PROPQUEST_INC_150523,Great job. Now I can truly call you a warrior.,Great job. Now I can truly call you a warrior.
-PROPQUEST_INC_150524,Kill 50 Hundur Sharpfoots,Kill 50 Hundur Sharpfoots
+PROPQUEST_INC_150524,Kill 50 Hundur Sharpfoots,獵殺50隻百夏足
 PROPQUEST_INC_150525,Honor of a Warrior 2,Honor of a Warrior 2
-PROPQUEST_INC_150526,"For a seasoned warrior, the real challenge is Captain Hundur Sharpfoot. Think you’re ready?","For a seasoned warrior, the real challenge is Captain Hundur Sharpfoot. Think you’re ready?"
+PROPQUEST_INC_150526,"For a seasoned warrior, the real challenge is Captain Hundur Sharpfoot. Think you’re ready?",對於身經百戰的戰士來說，真正的挑戰是百夏足首領。你覺得自己準備好了嗎？
 PROPQUEST_INC_150527,You already know how this works. No need for me to explain.,You already know how this works. No need for me to explain.
 PROPQUEST_INC_150528,"If you’re busy, that’s fine. The challenge isn’t going anywhere.","If you’re busy, that’s fine. The challenge isn’t going anywhere."
 PROPQUEST_INC_150529,I’ll be looking forward to seeing what you can do.,I’ll be looking forward to seeing what you can do.
 PROPQUEST_INC_150530,"I knew I judged you correctly. From now on, you’re an elite warrior of our village.","I knew I judged you correctly. From now on, you’re an elite warrior of our village."
-PROPQUEST_INC_150531,Kill 30 Captain Hundur Sharpfoots,Kill 30 Captain Hundur Sharpfoots
+PROPQUEST_INC_150531,Kill 30 Captain Hundur Sharpfoots,獵殺30隻百夏足首領
 PROPQUEST_INC_150532,Guard’s Request 1,Guard’s Request 1
 PROPQUEST_INC_150533,Small Samosets are pests that constantly bother our guards. Can you handle them and lighten our workload?,Small Samosets are pests that constantly bother our guards. Can you handle them and lighten our workload?
 PROPQUEST_INC_150534,"Thank you. You know where they are, right?","Thank you. You know where they are, right?"

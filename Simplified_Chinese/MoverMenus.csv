@@ -50,7 +50,7 @@ MMI_71,Remove Level Reduction,移除降级效果
 MMI_74,Get Buffed!,获取buff!
 MMI_75,Exchange Rare Item Pieces,兑换稀有道具碎片
 MMI_76,Exchange Card Pieces,兑换卡片碎片
-MMI_79,Remove Premium Item Blessing,移除女神的祝福
+MMI_79,Remove Premium Item Blessing,移除祝福效果
 MMI_80,Enter Arena,传送到竞技场
 MMI_81,Leave Arena,离开竞技场地区
 MMI_82,Arena Ranking,竞技场排名
@@ -97,7 +97,7 @@ MMI_1030,Lv60 GS Ranking,Lv60 公会战排名
 MMI_1031,Lv60 GS Information,Lv60 公会战信息
 MMI_1032,Blue Chip Shop,蓝纸片商店
 MMI_1033,Valentine's Letter Exchange,情书兑换
-MMI_1034,Dungeon,地牢
+MMI_1034,Dungeon,副本
 MMI_1035,PK Chip Shop,PK纸片商店
 MMI_1036,Exchange,兑换
 MMI_1037,Green Chip Shop,绿纸片商店

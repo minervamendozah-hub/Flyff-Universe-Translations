@@ -106,7 +106,7 @@ ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,Mage Redcloud
 ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,Taiaha
 ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,Hellhound
 ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,Chief Keokuk
-ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[God of Death] Demonic Ankou
+ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[死神] 魔化安库
 ACHIEVEMENT_KILL_AIBATT_LVL1,Aibatt Slayer 1,独眼蝠猎手
 ACHIEVEMENT_KILL_AIBATT_LVL2,Aibatt Slayer 2,独眼蝠屠夫
 ACHIEVEMENT_KILL_AIBATT_LVL3,Aibatt Slayer 3,独眼蝠杀手
@@ -1281,7 +1281,7 @@ ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
 ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Complete the fourth Hero Quest
 ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,1.5 Update Attendance
 ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Login each day for 40 minutes and receive rewards!
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Into the Eillun
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,前往艾尔伦
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Complete the main quests and earn rewards during the event!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Complete the daily quests in Kaillun and earn rewards during the event!
@@ -1292,7 +1292,7 @@ ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 t
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Complete Kaillun Daily Quests 60 times.
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Take the Ankou's Asylum
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!
-ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Defeat Ankou
+ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,击杀安库
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Defeat Blazing Ankou
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Defeat Demonic Ankou
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
