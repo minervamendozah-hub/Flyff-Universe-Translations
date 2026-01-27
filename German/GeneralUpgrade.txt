@@ -1,5 +1,5 @@
-﻿#bItem Upgrading#nb
+﻿#bGegenstand aufwerten#nb
 
-Upgrading an item raises its base stats an enhances its overall power and/or defenses.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Das Aufwerten eines Gegenstands erhöht seine Basiswerte und verbessert seine allgemeine Stärke und/oder Verteidigung.
+#cffff0000Die Verwendung einer Schutzrolle garantiert, dass dein Gegenstand dabei nicht zerstört werden kann.
+Low S-Protect Schutzrollen reduzieren die Aufwertungsstufe bei Misserfolg.#nc

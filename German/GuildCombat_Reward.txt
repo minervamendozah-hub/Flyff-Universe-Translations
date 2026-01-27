@@ -1,17 +1,25 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff Belohnungsinformationen #nb#nc
+
+※ Red Chip Belohnungen
+  - Alle Gilden, die die Mindestpunktanforderung erfüllen, erhalten 1.000 Rote Chips pro teilnehmendem Gildenmitglied.
+
+※ Green Chip Belohnungen
+  - 1. Platz Gilde: 150 pro teilnehmendem Gildenmitglied
+  - 2. Platz Gilde: 100 pro teilnehmendem Gildenmitglied
+  - 3. Platz Gilde: 50 pro teilnehmendem Gildenmitglied
+  - 4. Platz Gilde: 25 pro teilnehmendem Gildenmitglied
+  - 5. Platz Gilde: 13 pro teilnehmendem Gildenmitglied
+  - 6.–10. Platz Gilden: 6 pro teilnehmendem Gildenmitglied
+
+※ Penya Belohnungen
+  - Siegreiche Gilde: 35% des gesamten Anmeldegeldes
+  - Bester Spieler: 15% des gesamten Anmeldegeldes
+
+※ Spezielle Belohnungen
+  - 1 Sieg in Folge: Dragon Cloak of the Initiate (Alle Stats +5)
+  - 2 Siege in Folge: Dragon Cloak of the Adept (Alle Stats +6, Max HP +100)
+  - 3 Siege in Folge: Dragon Cloak of the Master (Alle Stats +7, Max HP +100)
+  - 4 Siege in Folge: Dragon Cloak of the Hero (Alle Statss +8, Max HP +100)
+
+#b#cffff0000※ Ein Button erscheint, der es ermöglicht,Dragon Cloaks frei im Gildenlager zu erstellen.#nb#nc
+※ Dragon Cloaks können nur ausgerüstet werden, bis die nächste Gildenbelagerung beginnt.

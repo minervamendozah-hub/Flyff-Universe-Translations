@@ -1,15 +1,17 @@
 #b#cff0000ff* Teilnahme#nb#nc
-* Anmeldezeit: Jeden Sonntag 00:00 bis Samstag 13:00 UTC
+* Anmeldezeit: Außerhalb der Gildenkampf Zeit
 * Kampfplatz: Server-Kanal 1
 * Bedingungen:
   - Gildenmeister
   - Gildenlevel mindestens 6
   - Gildenmitglieder mindestens Level 30
   - Gildenmeister oder Kingpin müssen gemeinsam teilnehmen
-  - Nur 8 Gilden können teilnehmen, basierend auf der Höhe der Anmeldegebühr (vor Ablauf der Anmeldung)  
+  - Bis zu 10 Gilden können teilnehmen. Wenn sich mehr als 10 Gilden anmelden, werden die Gilden ausgewählt, die die höchsten Anmeldegebühren gezahlt haben (Gebühren werden am Ende der Anmeldezeit verglichen).
 * Zeitplan:  
-  - 13:00  Eintritt  
-  - 13:10  Eintritt beendet  
-  - 13:20  Kampf beginnt  
-  - 13:50  Kampf endet  
-#b#cffff0000* Die Gildenbelagerung beginnt nur, wenn 2 oder mehr Gilden angemeldet sind.#nb#nc
+  - Aufstellung (10 Minuten): Der Gildenmeister oder jeder Kingpin kann die Aufstellung festlegen und bearbeiten. Bis zu 15 Gildenmitglieder können teilnehmen. Ein Teilnehmer muss als Verteidiger bestimmt werden.
+  - Eintrittsphase (7 Minuten): Teilnehmende Spieler können die Gildenkampf-Arena betreten und warten.
+  - Vorbereitungsphase (3 Minuten): Die ersten 6 Spieler jeder teilnehmenden Gilde werden in das Gildenkampf-Kampfgebiet teleportiert.
+  - Kampfphase (40 Minuten): Der Kampf beginnt und dauert an, bis der Gildenkampf endet.
+* Hinweise
+  - Wenn mehr als 5 Gilden teilnehmen, wird ein großes Schlachtfeld verwendet und die Kampfphase dauert 55 Minuten.
+  - #b#cffff0000 Der Gildenkampf beginnt nur, wenn 2 oder mehr Gilden akzeptiert werden.#nb#nc
