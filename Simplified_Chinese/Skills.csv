@@ -506,31 +506,31 @@ PROPSKILL_TXT_FWC_202501,Grinder's Blessing,Grinder's Blessing
 PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,Madrigal's elites guide you!
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Bubble's Fortune
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fortunate guide you!
-PROPSKILL_TXT_150000,Harlequin's Greeting,Harlequin's Greeting
-PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Perform a quick step, teleporting behind your target with a swift attack."
+PROPSKILL_TXT_150000,Harlequin's Greeting,谑影戏礼
+PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","使用迅捷步法，瞬间传送至目标身后并发起疾速攻击。"
 PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
 PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
 PROPSKILL_TXT_150004,Range Increase,Range Increase
-PROPSKILL_TXT_150005,Harlequin's Charge,Harlequin's Charge
-PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Gather strength to perform a powerful charging attack against a single enemy.
+PROPSKILL_TXT_150005,Harlequin's Charge,谑影蓄势
+PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,集聚力量，对单个敌人发动强力的蓄力攻击。
 PROPSKILL_TXT_150007,Increased Damage,Increased Damage
 PROPSKILL_TXT_150008,Reduced Charge Time,Reduced Charge Time
 PROPSKILL_TXT_150009,Reduced Cooldown,Reduced Cooldown
-PROPSKILL_TXT_150010,Alter Ego,Alter Ego
-PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death."
+PROPSKILL_TXT_150010,Alter Ego,双重自我
+PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","进入隐身状态，并在原地生成一个分身。该分身将向随机方向移动，反弹所受伤害，并在消亡时爆炸。"
 PROPSKILL_TXT_150012,Maintain Ego,Maintain Ego
-PROPSKILL_TXT_150014,Special Yo-Yo Mastery,Special Yo-Yo Mastery
-PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","Increases auto attack damage, multistrike chance, and Yo-Yo range when used."
+PROPSKILL_TXT_150014,Special Yo-Yo Mastery,特殊飞轮精通
+PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","使用后提升普通攻击伤害、多重打击概率及飞轮的攻击距离。"
 PROPSKILL_TXT_150016,Auto Attack,自动攻击
-PROPSKILL_TXT_150017,Range,Range
-PROPSKILL_TXT_150018,Multistrike,Multistrike
+PROPSKILL_TXT_150017,Range,攻击距离
+PROPSKILL_TXT_150018,Multistrike,多重打击
 PROPSKILL_TXT_150019,Critical Yo-Yo Mastery,Critical Yo-Yo Mastery
 PROPSKILL_TXT_150020,String Yo-Yo Mastery,String Yo-Yo Mastery
-PROPSKILL_TXT_150021,Critical Stab,Critical Stab
-PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","Your critical chance is lowered, but critical damage is increased."
+PROPSKILL_TXT_150021,Critical Stab,致命刺杀
+PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","暴击率降低，暴击伤害提高。"
 PROPSKILL_TXT_150024,Increased Duration,Increased Duration
-PROPSKILL_TXT_150026,Shadow Strike,Shadow Strike
-PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,Attacking from behind while invisible deals additional damage.
+PROPSKILL_TXT_150026,Shadow Strike,影袭
+PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,隐身状态下从背后发动攻击，将造成额外伤害。
 PROPSKILL_TXT_150028,Agility,Agility
 PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,Movement speed temporarily increases after leaving invisibility.
 PROPSKILL_TXT_150030,Concentration [Nen],Concentration [Nen]
@@ -566,7 +566,7 @@ PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,You can ignore one instance of disable or weaken debuffs
 PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
 PROPSKILL_TXT_150067,Additional Shield,Additional Shield
-PROPSKILL_TXT_150069,Chimera's Curse,Chimera's Curse
+PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的诅咒
 PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success."
 PROPSKILL_TXT_150071,Full charge duration increase,Full charge duration increase
 PROPSKILL_TXT_150072,Full charge debuff increase,Full charge debuff increase
@@ -885,12 +885,12 @@ PROPSKILL_TXT_150333,Marked Attack,Marked Attack
 PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.
 PROPSKILL_TXT_150335,Nen Acquisition,Nen Acquisition
 PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,Increases your chance to gain an additional Nen stack when using Concentration.
-PROPSKILL_TXT_150337,Toxic Assault,Toxic Assault
-PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.
+PROPSKILL_TXT_150337,Toxic Assault,剧毒强袭
+PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,对目标发动多段连击，每次命中均有概率施加中毒效果。
 PROPSKILL_TXT_150339,Increased Chance,Increased Chance
 PROPSKILL_TXT_150341,Increased Toxins,Increased Toxins
-PROPSKILL_TXT_150342,Toxic Fury,Toxic Fury
-PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,Inflict poison on yourself to increase your power at the cost of defense.
+PROPSKILL_TXT_150342,Toxic Fury,剧毒狂怒
+PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,使自身中毒，以牺牲防御为代价换取能力提升。
 PROPSKILL_TXT_150345,Maintain Addiction,Maintain Addiction
 PROPSKILL_TXT_150346,No Pain No Gain,No Pain No Gain
 PROPSKILL_TXT_150347,Toxic Analogy,Toxic Analogy
