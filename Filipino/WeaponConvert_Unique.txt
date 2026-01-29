@@ -1,2 +1,2 @@
 ﻿#b#cff0000ff Unique Weapon Conversion #nb#nc
-You can convert a normal weapon (lvl. 60 requirement to wield or higher) to a Unique Weapon using 1 Jewel that corresponds to the level required to wield the weapon and 1 Shining Power Dice. If the conversion fails, all materials will be destroyed.
+Maaari mong i-convert ang isang normal na sandata (kailangang lvl. 60 pataas para magamit) tungo sa isang Unique Weapon gamit ang 1 Jewel na tumutugma sa level na kailangan para magamit ang sandata at 1 Shining Power Dice. Kapag nabigo ang conversion, masisira ang lahat ng materyales.

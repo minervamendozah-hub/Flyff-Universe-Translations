@@ -1,5 +1,5 @@
-﻿The cost of unbinding is 100,000 Penya per item.
-#cffff0000Unbinding will remove #ball upgrades, bonuses, element and piercings#nb.
-You cannot cancel the operation once it is done.#nc
-The item will be tradable again. If you want to keep all improvements, please use a Scroll of Unbinding instead of this menu.
-Only works on Soul-Bound items and #bnot Soul-Linked items#nb.
+﻿Ang gastos ng unbinding ay 100,000 Penya bawat item.
+#cffff0000Ang unbinding ay mag-aalis ng #blahat ng upgrades, bonuses, element, at piercings#nb.
+Hindi mo na maaaring i-cancel ang operasyon kapag naisagawa na.#nc
+Magiging tradable muli ang item. Kung gusto mong manatili ang lahat ng pagpapabuti, gamitin ang Scroll of Unbinding sa halip na ang menu na ito.
+Gumagana lamang ito sa mga Soul-Bound na item at #bhindi sa mga Soul-Linked na item#nb.

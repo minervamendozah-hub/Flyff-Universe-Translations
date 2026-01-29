@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+﻿Maligayang pagdating, mga manlalakbay! Ang mga dungeon sa #bStory mode#nb ay may mga halimaw na mas mababa ang atake, kalusugan, at karanasan kumpara sa normal na bersyon ng isang dungeon.
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+Maaaring gamitin ng mga manlalaro ang Story mode upang kumpletuhin ang mga quest kasama ang mga kaibigan, o maglibot nang chill sa kuwento sa isang #bmababang panganib#nb na kapaligiran. Mag-enjoy!
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- Ang mga Masquerpets sa Story mode na mga dungeon ay hindi nagda-drop ng mga item
+- Walang lumalabas na pet cages at treasure chests sa Story mode
+- Walang nakukuhang credit para sa achievements ang mga manlalaro sa Story mode

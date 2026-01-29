@@ -1,2 +1,2 @@
 ﻿#b#cff0000ffUltimate Jewel Removal#nb#nc
-Remove any of the applied ultimate jewels. Clicking Remove will confirm removal and destroy the jewel. The cost is 5,000,000 penya per removal.
+Alisin ang anumang naikabit na ultimate jewel. Ang pag-click sa Remove ay magkokumpirma ng pag-alis at sisirain ang jewel. Ang halaga ay 5,000,000 penya bawat pag-alis.

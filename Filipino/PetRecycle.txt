@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Sacrificing #nb#nc
-You can #bchange the level#nb of your current pet's tier by sacrificing another pet with the #bsame tier or higher#nb.
-#cffff0000The pet that you input below will be permanently destroyed.#nc
-The higher the tier of the pet you destroy, the better the chance to get a good level.
+﻿#b#cff0000ff Pagsasakripisyo ng Pet #nb#nc
+Maaari mong #bbaguhin ang level#nb ng tier ng kasalukuyan mong pet sa pamamagitan ng pagsasakripisyo ng isa pang pet na may #bparehong tier o mas mataas#nb.
+#cffff0000Ang pet na ilalagay mo sa ibaba ay permanenteng mawawala.#nc
+Habang mas mataas ang tier ng pet na isasakripisyo, mas maganda ang tsansa na makakuha ng magandang level.

@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Rerolling #nb#nc
-You can #bchange the level#nb of a selected tier, resulting in a new random level which could be #bhigher or lower#nb than the current level.
-#cffff0000The number of scrolls displayed when selecting a tier will be consumed.#nc
-Once you select a tier to reroll, #bonly that tier will remain eligible for rerolling, disabling all other tiers from rerolling using a reroll scroll#nb.
+﻿#b#cff0000ff Pag-reroll ng Pet #nb#nc
+Maaari mong #bbaguhin ang level#nb ng napiling tier, at magkakaroon ng bagong random na level na maaaring #bmas mataas o mas mababa#nb kaysa sa kasalukuyang level.
+#cffff0000Ang bilang ng mga scroll na ipinapakita kapag pumipili ng tier ay mako-consume.#nc
+Kapag pumili ka ng tier na i-reroll, #biyon lamang na tier ang mananatiling puwedeng i-reroll, at madi-disable ang lahat ng iba pang tier sa pag-reroll gamit ang reroll scroll#nb.
