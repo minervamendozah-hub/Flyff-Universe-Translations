@@ -2254,7 +2254,7 @@ UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Temps avant l’apparit
 UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Temps avant la fin de l’attaque Kalgas
 UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","En raison d’un temps de participation insuffisant, vous serez exclu des récompenses et du classement"
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Félicitations. L’équipe %s gagne !
-UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Malheureusement, aucun vainqueur n’est déterminé
+UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Malheureusement aucun vainqueur n’est déterminé
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","Après %d secondes, vous serez automatiquement ramené en ville"
 UI_BLACK,Black,Noir
 UI_WHITE,White,Blanc
