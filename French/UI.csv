@@ -162,7 +162,7 @@ UI_OPTION_PARTY,Party and guild invites,Invitation de Groupe et de Guilde
 UI_OPTION_FRIEND,Friend Invites,Demandes d'ami
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Légendes de Siège de Guilde
 UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Désactiver le Tutorial de Pang
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
+UI_OPTION_COUPLE,Couple Proposals,Demandes en mariage
 UI_INSTANTMSG_TITLE,Message,Envoyer un message
 UI_MESSAGE_SEND,Send,Envoyer
 UI_SHOP_TITLE,Shop,Boutique
@@ -825,7 +825,7 @@ UI_MAP_MARK,Position,Position
 UI_MAP_MARK_NAME_TITLE,Position Name Change,Changement du nom de position
 UI_MAP_MARK_NAME_INPUT,Please put new name,Nouveau nom
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[Équipé]
-UI_TOOLTIP_ACTIVESELF,Also Casted on You,Also Casted on You
+UI_TOOLTIP_ACTIVESELF,Also Casted on You,Déjà appliqué sur vous
 UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Aussi appliqué sur la cible
 UI_TOOLTIP_CHANGEIFHAS,If you have %s,Si vous possédez %s
 UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,Si la cible possède %s
@@ -874,7 +874,7 @@ UI_APP_STATUS_TIP,Character Status,Afficher le statut du personnage
 UI_APP_CHAT_TIP,Open a chat window.,Afficher la fenêtre de discussion
 UI_APP_QUIT_TIP,Exit Program,Quitter le monde de Flyff
 UI_APP_SUPPORT_TIP,Open the Customer Support.,Ouvre le Service Client.
-UI_APP_PRIVACY_TIP,Open the privacy tab.,Open the privacy tab.
+UI_APP_PRIVACY_TIP,Open the privacy tab.,Ouvrir l’onglet Confidentialité.
 UI_APP_LOGOUT_TIP,Logout,Déconnexion
 UI_APP_OPTION_TIP,Option,Options
 UI_APP_MAP_TIP,A Map of the World,Une carte de Madrigal
@@ -1274,8 +1274,8 @@ UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PVP),Chance d'étourdir (JcJ)
 UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PVE),Chance d'étourdir (JcE)
 UI_TOOLTIP_CHANCEPOISON,Poison Probability,Chance d'empoisonner
 UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,Chance de vol de PV
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Steal MP Probability
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Steal FP Probability
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Probabilité de voler des MP
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Probabilité de voler des FP
 UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Chance de saignement
 UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,PV des membres du groupe
 UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,Dégats sur la durée : %s secondes
