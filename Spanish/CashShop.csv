@@ -11,7 +11,7 @@ CS_PICKUP_PETS,Pickup Pets,Mascota Receptora
 CS_FLYING,Flying,Volar
 CS_CONSUMABLES,Consumables,Consumibles
 CS_RECOVERY,Recovery,Rescate
-CS_SCROLL,Scroll,Rúbrica
+CS_SCROLL,Scroll,Pergaminos
 CS_BUFF,Buff,Impulso
 CS_BLINKWING,Blink Wing,Ala parpadeante
 CS_TRANS,Trans,Trans
@@ -31,11 +31,11 @@ CS_SPECIAL_PACKAGE,Special Package,Paquete Especial
 CS_BLACK_FRIDAY,Black Friday,Black Friday
 CS_REBORN_SALES,Reborn Sales,Ventas Renacidas
 CS_FWC,FWC,FWC
-CS_HOUSING,Housing,Housing
+CS_HOUSING,Housing,Viviendas
 CS_EVENT,Event,Evento
-CS_WORLD_TEMPLATE,World Template,World Template
-CS_WORLD_THEME_PACK,Theme Pack,Theme Pack
-CS_WORLD_BUNDLE_PACK,Bundle Pack,Bundle Pack
-CS_WORLD_SINGLE_PACK,Single Pack,Single Pack
+CS_WORLD_TEMPLATE,World Template,Tema Global
+CS_WORLD_THEME_PACK,Theme Pack,Paquete Temático
+CS_WORLD_BUNDLE_PACK,Bundle Pack,Lote de Productos
+CS_WORLD_SINGLE_PACK,Single Pack,Paquete Individual
 CS_NPC,NPC,NPC
-CS_COUPLE,Couple,Couple
+CS_COUPLE,Couple,Pareja
