@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory Mode#nb dungeons feature monsters with reduced attack, health, and experience compared to the normal dungeon difficulty.
+¡Bienvenidos, aventureros! #bModo Historia#nb Las mazmorras cuentan con monstruos con ataque, vida, y experiencia reducidos en comparación con la dificultad normal.
 
-Story Mode is ideal for completing quests with friends or enjoying a relaxed walkthrough of the scenario in a #blow-risk#nb environment. Enjoy!
+Modo Historia es ideal para completar búsquedas con amigos o para disfrutar un recorrido del escenario más relajado en una #Zona de Alto Riesgo#nb ¡Disfrútalo!
 
-- Masquerpets in Story Mode dungeons do not drop items.
-- Pet cages and treasure chests do not spawn in Story Mode.
-- Players do not earn achievement progress in Story Mode.
+- Masquerpets en Mazmorra de Modo Historia no sueltan objetos.
+- Jaulas de Mascotras y Cofres del Tesoro no aparecen en Modo Historia.
+- Los jugadores no desbloquean logros en Modo Historia.
