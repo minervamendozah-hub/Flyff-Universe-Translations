@@ -1,16 +1,16 @@
-﻿#b#cff0000ff Level 60 Guild Siege #nb#nc
-Welcome to the Level 60 Guild Siege!
-This Guild Siege is available to players who have not completed their second class change.
+﻿#b#cff0000ff Asedio de Gremio Nivel 60 #nb#nc
+¡Bienvenido al Asedio de Gremio Nivel 60!
+Es Asedio de Gremio está disponible para aquellos jugadores que no hayan completado su segundo cambio de clase.
 
-Please speak with [Guild Siege Manager] Donaris for more information.
+Por favor habla con [Gerente de Asedio de Gremios] Donaris para más información.
 
-#bPets cannot be summoned during this Guild Siege.#nb
+#bLas mascotas no pueden ser convocadas durante el Asedio de Gremio.#nb
 
-#b#cff0000ff Blue Chip Rewards #nb#nc
-※ Rewards are granted based on final placement and the number of participating guilds.
-  - 1st Place Guild: 16 x number of participating guilds
-  - 2nd Place Guild: 11 x number of participating guilds
-  - 3rd Place Guild: 6 x number of participating guilds
-  - 4th Place Guild: 4 x number of participating guilds
-  - 5th Place Guild: 2 x number of participating guilds
-  - 6th–10th Place Guilds: 1 x number of participating guilds
+#b#cff0000ff Premios de Fichas Azules #nb#nc
+※ Las recompensas se otorgan según el lugar que se obtenga al final y la cantidad de gremios participantes.
+  - 1er Lugar: 16 x número de gremios participantes
+  - 2do Lugar: 11 x número de gremios participantes
+  - 3er Lugar: 6 x número de gremios participantes
+  - 4to Lugar: 4 x número de gremios participantes
+  - 5to Lugar: 2 x número de gremios participantes
+  - 6to–10mo Lugar: 1 x número de gremios participantes
