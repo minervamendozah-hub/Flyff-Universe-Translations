@@ -1,11 +1,11 @@
 ﻿Key,English,German
-DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Asylum
-DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Cell
-DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Lerenkluft (instanzierter Dungeon)
+DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Zuflucht
+DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Kammer
+DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Lerenkluft (Instanzierter Dungeon)
 DUHERNEOS_WLD_000000,Herneos (Dungeon),Herneos (Dungeon)
 DUDADK_WLD_000000,Dekane Mine (Dungeon),Dekane Mine (Dungeon)
-WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),Mas Dungeon
-DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),Guardiane Heiligtum (instanzierter Dungeon)
+WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),Mars Dungeon
+DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),Guardiane Heiligtum (Instanzierter Dungeon)
 DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),Katakomben von Rhisis (Instanzierter Dungeon) 
 DURUSTIA_WLD_000000,The Wilds,Die Wildnis
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),Ivillis Tempel (Dungeon)
@@ -16,21 +16,21 @@ DUVOLKANE_WLD_000001,Volkane (Dungeon),Volkane (Dungeon)
 WDARENA_WLD_000000,Arena,Arena
 WDARENA_WLD_000001,You can PvP in the Arena.,Hier ist PvP erlaubt.
 WDARENA_WLD_000002,Training Center,Training Center
-WDARENA_WLD_000003,Test your capabilities against dummies!,Test your capabilities against dummies!
+WDARENA_WLD_000003,Test your capabilities against dummies!,Teste deine Fähigkeiten an den Übungspuppen!
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
-WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
-WDARENA_WLD_000007,The Bronze Elementor,The Bronze Elementor
-WDARENA_WLD_000008,The Bronze Knight,The Bronze Knight
-WDARENA_WLD_000009,The Bronze Psykeeper,The Bronze Psykeeper
-WDARENA_WLD_000010,The Bronze Billposter,The Bronze Billposter
-WDARENA_WLD_000011,The Bronze Blade,The Bronze Blade
-WDARENA_WLD_000012,The Bronze Jester,The Bronze Jester
-WDARENA_WLD_000013,The Bronze Ranger,The Bronze Ranger
-WDARENA_WLD_000014,The Bronze Ringmaster,The Bronze Ringmaster
+WDARENA_WLD_000006,The Bronze Vagrant,Der Bronze Vagrant
+WDARENA_WLD_000007,The Bronze Elementor,Der Bronze Elementor
+WDARENA_WLD_000008,The Bronze Knight,Der Bronze Knight
+WDARENA_WLD_000009,The Bronze Psykeeper,Der Bronze Psykeeper
+WDARENA_WLD_000010,The Bronze Billposter,Der Bronze Billposter
+WDARENA_WLD_000011,The Bronze Blade,Der Bronze Blade
+WDARENA_WLD_000012,The Bronze Jester,Der Bronze Jester
+WDARENA_WLD_000013,The Bronze Ranger,Der Bronze Ranger
+WDARENA_WLD_000014,The Bronze Ringmaster,Der Bronze Ringmaster
 WDCOLOSSEUM_WLD_000001,The Colosseum,Das Kolosseum
 WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Kolosseum Stadion
-WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,The Cage of Clockworks
+WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,Der Käfig des Clockworks
 WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,"Dies ist der Käfig, in dem Clockworks nach dem Clockwork War versiegelt wurde."
 WDEVENT_WLD_000000,Duel Zone,Arena
 WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,Du willst ein starker Kämpfer sein? \n Zeig uns deinen Siegeswillen!
@@ -43,7 +43,7 @@ WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the bes
 WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,Du willst ein starker Kämpfer sein? \n Zeig uns deinen Siegeswillen!
 WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,"Beweise dich!\nZeig ihnen, dass du die Nummer eins bist!"
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
-WDKEBARAS_WLD_000001,This is a safe place.,Das ist ein sicherer Ort.
+WDKEBARAS_WLD_000001,This is a safe place.,Dies ist ein sicherer Ort.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",Willkommen in der Stadt von Kebaras!\nDieser Ort war einst ein Gefängnis für Kriminelle...
 WDMADRIGAL_WLD_000000,Mysterious Castle,Mysteriöses Schloss
@@ -60,7 +60,7 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,Fluglinie Arians ↔ Guardiane
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Fluglinie Arians ↔ Tote Wüste
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nVerlassene Erons Fabrik
 WDMADRIGAL_WLD_000013,Azria\nVillage,Azria\nDorf
-WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Line Deadwallderness ↔ Azria
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Fluglinie Deadwallderness ↔ Azria
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,Sturmgipfel Eingang
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,Neidische Tiefen Eingang
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Guardiane Heiligtum Eingang
@@ -68,25 +68,25 @@ WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Lerenkluft Eingang
 WDMADRIGAL_WLD_000022,Wilds Entrance,Wildnis Eingang
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,Katakomben von Rhisis
 WDMADRIGAL_WLD_000024,This is a safe place.,Dies ist ein sicherer Ort.
-WDMADRIGAL_WLD_000025,The Wilds Entrance,Die Wildnis Eingang
-WDMADRIGAL_WLD_000026,Coral Village,Coral Dorf
+WDMADRIGAL_WLD_000025,The Wilds Entrance,Wilds Eingang
+WDMADRIGAL_WLD_000026,Coral Village,Korallen Dorf
 WDMADRIGAL_WLD_000028,Coral Island,Koralleninsel
-WDMADRIGAL_WLD_000029,Welcome to Coral!,Willkommen in Coral!
+WDMADRIGAL_WLD_000029,Welcome to Coral!,Willkommen auf der Koralleninsel!
 WDMADRIGAL_WLD_000030,Red Sea,Rotes Meer
 WDMADRIGAL_WLD_000032,Deep Sea,Tiefsee
 WDMADRIGAL_WLD_000034,Swamp,Sumpf
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,Dieser Ort war einst weithin berühmt...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Willkommen in Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Hafen
 WDMADRIGAL_WLD_000040,This is a safe place.,Dies ist ein sicherer Ort.
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
-WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
-WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
-WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
-WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
-WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Eingang
+WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Kamm
+WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Fälle
+WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Klippen
+WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Wald
+WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Zuflucht Eingang
 WDMADRIGAL_WLD_000047,This is a safe place.,Dies ist ein sicherer Ort.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\n Stillgelegte Erons Fabrik 2
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Dies war die zweite Erons Fabrik. Hier wurden die Erons hergestellt.
@@ -120,7 +120,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,Heimat der Nyangnyang
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,Lieblingsplatz von Nyangnyangs dem Katzenvolk.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,Die Brücke wurde kürzlich repariert.\nFrüher musste man noch über fehlende Planken springen.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,Lodelight
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Das ist ein sicherer Ort.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Dies ist ein sicherer Ort.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Dorf Madren
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,Ein kleines Dorf der Demian. \n Verstoßene Demians leben in diesem Dorf.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Mitte vom Fluss der Tränen
@@ -182,14 +182,14 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092,Darkon 3\nBrekin,Darkon 3\nBrekin
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000093,"This was an industrial area for refining Erons.\nHowever, this area was abandoned because of growing danger in the area.",Dies war ein Industriegebiet für die Raffination von Erons.\nDieses Gebiet wurde jedoch wegen der zunehmenden Gefahr in der Gegend aufgegeben.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094,Darkon 3\nArians,Darkon 3\nArians
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000095,This area consists of giant pools. This blue water dissolved Erons.,Dieses Gebiet umfasst gigantische Wasserbecken und das kristallklare Wasser hat Erons aufgelöst.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096,Engisis Length,Dieser Baum ist der größte und mysteriöseste Baum von allen
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097,"The largest, most mysterious tree in Madrigal.",Totes Moor
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096,Engisis Length,Engisis Weite
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097,"The largest, most mysterious tree in Madrigal.",Der größte und geheimnisumwobenste Baum Madrigals.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098,Darkon 3\nDeadwallderness,Darkon 3\nTote Wüste
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000099,The wasteland of Darkon 3. Smoke rises from the ground that smells like dead things.,Das Ödland von Darkon 3. Es ist voller Rauch und der widerwärtigen Gestank von toten Lebenwesen ist allgegenwärtig.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100,Darkon 3\nAniceknight,Darkon 3\nAniceknight
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101,The local plants have mutated and grown large.,Haus von Laola
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101,The local plants have mutated and grown large.,Die lokalen Pflanzen sind mutiert und haben eine enorme Größe erreicht.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102,Darkon 3\nHouse of Laola,Darkon 3\nDas Haus von Laola
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103,A mysterious aura has wrapped itself around the home of Laola,Altar des Ranger
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103,A mysterious aura has wrapped itself around the home of Laola,Eine geheimnisvolle Aura hat sich um Laolas Heimat gelegt.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000104,Altar of Ranger,Altar des Ranger
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000105,This altar was made for admiring the glory of the Ranger.\nA priest named Rupim is managing this altar.,"Dieser Altar wurde errichtet, um die Pracht der Ranger zu ehren.\nEin Priester namens Rupim verwaltet diesen Altar."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000106,Altar of Psykeeper,Altar des Psykeeper
@@ -201,7 +201,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000111,There is a blue glow to the air.\nThe cre
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112,Darkon 3\nMiddle Cendil,Darkon 3\nZentral-Cendil
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000113,Unknown powerful energy exists in this district.\nNobody wants to know where the power came from.,"Eine unbekannte, mächtige Energie umgibt dieses Gebiet.\nNiemand möchte wissen, woher diese Energie stammt."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114,Darkon 3\nEastern Cendil,Darkon 3\nOst-Cendil
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115,Mileng is a holy place surrounded by giant trees shaped like mushrooms.,Mileng
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115,Mileng is a holy place surrounded by giant trees shaped like mushrooms.,"Mileng ist ein heiliger Ort, umgeben von riesigen Bäumen, die wie Pilze geformt sind."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116,Mileng,Mileng
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117,Mileng is a holy place surrounded by giant trees shaped like mushrooms.\nThe Heroes of Madrigal won their first victory here.,"Mileng ist ein heiliger Ort, welcher von riesigen Bäumen in Pilzform umgeben wird.\nDie Helden Madrigals haben hier ihre erste Schlacht gewonnen."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118,Darkon 3\nGuardiane,Darkon 3\nGuardiane
@@ -224,11 +224,11 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000134,Kyon Soldiers,Soldaten von Kyon
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000135,"The greatest soldiers in Madrigal.\nTheir numbers may not be very large,\nbut they are all highly-qualified warriors.","Die beste Militäreinheit von Teshar in Madrigal.\nEs mögen nicht viele sein,\naber alle sind hochqualifizierte Individuen."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136,Darkon 2\nDarken,Darkon 2\nDarkon
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000137,Administrative City of Darkon.\nMost of the citizens are slightly hard of hearing\nbecause of the machine noise.,Verwaltung von Darkon.\nDie meisten Menschen der bewohner hören schlecht\nwegen dem Lärm von all den Maschinengeräuschen.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138,Darkon 2\nCave of Envy,Darkon 2\nEienble Höhle
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138,Darkon 2\nCave of Envy,Darkon 2\nHöhle des Neids
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,"Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,Darkon 2\nEienble Höhle
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,Darkon 2\nHöhle des Neids
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,"Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,Darkon 2\nEienble Höhle
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,Darkon 2\nHöhle des Neids
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,"Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,Darkon 1\nKhipra
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,"Die Natur hier sieht sehr zerstört aus, was an den erbauten \nErons Fabriken liegen könnte. In diesen Firmen werden die Erons hergestellt."
@@ -248,13 +248,13 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,Darkon 1\nDa
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,Altar des Jester
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,Darkon 3\nDorf von Kan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos war ein wunderschönes Unterwasserparadies mit prächtiger Architektur.\n Doch Shades Hand brachte großes Unheil."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,Prototyp
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Unbekannter Ort in Madrigal
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Nur ein Game Master kann dir helfen zu gehen.
-WDREALM_WLD_000000,This is a safe place.,Das ist ein sicherer Ort.
-WDREALM_WLD_000001,This is a safe place.,Das ist ein sicherer Ort.
+WDREALM_WLD_000000,This is a safe place.,Dies ist ein sicherer Ort.
+WDREALM_WLD_000001,This is a safe place.,Dies ist ein sicherer Ort.
 WDREALM_WLD_000002,This is a safe place.,This is a safe place.
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,Willkommen in der Kampfzone!
 WDHEAVEN06_1_WLD_000003,Secret Room,Geheimer Raum
