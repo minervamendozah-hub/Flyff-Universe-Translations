@@ -1,26 +1,26 @@
 ﻿#cff0000ff Kalgas Assault #nc
-Two teams face off in an intense battle to seize control of the mighty boss, Kalgas!
-Destroy the artifacts guarding Kalgas to unleash devastating damage and turn the tide of battle.
-Various rewards await those who rise to the challenge!
+Dos equipos se enfrentan en una intensa batalla para tomar el control del poderoso jefe, ¡Kalgas!
+Destruye los artefactos que lo protegen para infligir un daño devastador y cambiar el curso de la batalla.
+¡Varias recompensas esperan a quienes acepten el desafío!
 
-#cff0000ff Rules #nc
-1. Capturing an artifact grants a buff that increases the damage dealt to Kalgas. The more artifacts your team controls, the greater the damage bonus.
-2. Players with insufficient contribution will not receive rewards.
-3. The team that deals more damage to Kalgas and achieves the higher rate by the end of the assault is declared the winner.
-  - If a team's rate exceeds 80% and is maintained for 1 minute, the assault ends immediately and that team claims victory.
-4. Winning Priority:
-  - Rate
-  - Number of captured artifacts
-  - Player kills between teams
-5. If Kalgas Assault begins without an opposing team, and no damage is dealt to Kalgas, the event will end in a draw.
+#cff0000ff Reglas #nc
+1. Capturar un artefacto otorga una mejora que aumenta el daño infligido a Kalgas. Cuantos más artefactos controle tu equipo, mayor será la bonificación de daño.
+2. Los jugadores con una contribución insuficiente no recibirán recompensas.
+3. El equipo que inflija más daño a Kalgas y alcance la mayor porcentaje de daño al final del asalto será declarado ganador.
+  - Si la tasa de un equipo supera el 80% y se mantiene durante 1 minuto, el asalto finaliza inmediatamente y ese equipo se adjudica la victoria.
+4. Prioridad de victoria:
+  - Porcentaje de daño
+  - Número de artefactos capturados
+  - Eliminaciones de jugadores entre equipos
+5. Si el Asalto de Kalgas comienza sin un equipo oponente y no se inflige daño a Kalgas, el evento terminará en empate.
 
-#cff0000ff Rewards #nc
-※ Participation Reward: 5x Kalgas Chips
-※ Winning Team Reward: 10x Kalgas Chips
-※ Category Rankings
-  - 1st Place: 30x Kalgas Chips
-  - 2nd Place: 20x Kalgas Chips
-  - 3rd Place: 15x Kalgas Chips
+#cff0000ff Recompensas #nc
+※ Recompensa por participar: 5x Fichas Kalgas
+※ Recompensa del equipo ganador: 10x Fichas Kalgas
+※ Categorías de clasificación
+  - 1er Lugar: 30x Fichas Kalgas
+  - 2do Lugar: 20x Fichas Kalgas
+  - 3er Lugar: 15x Fichas Kalgas
 
-※ In the event of a draw, only participation rewards and category ranking rewards are granted. Winning Team rewards are not granted.
-※ The final number of Kalgas Chips awarded is based on the player's contribution amount.
+※En caso de empate, solo se garantizan recompensas por participación y por categorías de clasificación. No se dará recompensas para el equipo ganador.
+※La cantidad final de fichas Kalgas otorgadas se basa en el monto de la contribución del jugador.
