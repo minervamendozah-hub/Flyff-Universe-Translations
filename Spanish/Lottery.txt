@@ -1,7 +1,7 @@
-﻿#cffff0000Welcome to the Flyff Universe Lottery Wheel!#nc
+﻿#cffff0000¡Bienvenido a la Rueda de Lotería de Flyff Universe!#nc
 
-Get enough event items to try your luck spinning the wheel! You can win incredible rewards!
+¡Obtén suficientes objuetos de evento para probar tu suerte girando la rueda! ¡Puedes ganar premios increíbles!
 
-Items have different probabilities to win them, so don’t be disappointed if you don’t get the best prize on your first try!
+Lo objetos tienen diferentes probabilidades, ¡así que no te decepciones si no obtienes el mejor premio en tu primer intento!
 
-#cffff0000Good luck to you!#nc
+#cffff0000¡Buena suerte!#nc
