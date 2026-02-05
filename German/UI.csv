@@ -2763,7 +2763,7 @@ UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Applying a Blessing will make the item soul-bound. Do you wish to continue?
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Da das Rezept nicht vollständig verstanden wird, wird jeweils nur eine Zutat verwendet."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest abgeschlossen
-UI_TELEPORT_ARENA,Do you want to exit the arena?,Möchtest du das Arena beenden?
+UI_TELEPORT_ARENA,Do you want to exit the arena?,Möchtest du die Arena beenden?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
