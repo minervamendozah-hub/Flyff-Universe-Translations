@@ -1500,7 +1500,7 @@ TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
 TEXTCLIENT_APP_ACCOUNT,Account,Account
-TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,Du benötigst einen %d %s.
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,Du benötigst %d %s.
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Gegenstand durch die Niederlage zerstört.
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
 TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
