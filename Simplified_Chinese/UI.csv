@@ -110,13 +110,13 @@ UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,产量加成等级
 UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,怪物出现几率加成等级
 UI_TOOLTIP_ONEHAND,One-handed weapon.,单手武器
 UI_TOOLTIP_TWOHAND,Two-handed weapon.,双手武器
-UI_TOOLTIP_ATTACK_BASE,Base Attack:,基础攻击力：
-UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力：
-UI_TOOLTIP_ATTACK,Attack:,攻击力：
-UI_TOOLTIP_DEF_A,Defense:,防御力：
+UI_TOOLTIP_ATTACK_BASE,Base Attack:,基础攻击力:
+UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力:
+UI_TOOLTIP_ATTACK,Attack:,攻击力:
+UI_TOOLTIP_DEF_A,Defense:,防御力:
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度：%s
-UI_TOOLTIP_REQ_JOB,Req Job:,职业要求：
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等级要求：%d
+UI_TOOLTIP_REQ_JOB,Req Job:,职业:
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等级: %d
 UI_TOOLTIP_REQ,Requires %s,Requires %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP回复量：%d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
@@ -135,14 +135,14 @@ UI_TOOLTIP_INV_MASK,Mask,面具
 UI_TOOLTIP_INV_RID,Flying Item,飞行道具
 UI_TOOLTIP_INV_NECKLACE,Necklace,项链
 UI_TOOLTIP_INV_RING,Ring,戒指
-UI_TOOLTIP_INV_EARRING,Earring,Earring
+UI_TOOLTIP_INV_EARRING,Earring,耳环
 UI_TOOLTIP_INV_BULLET,"Sub Weapon (Arrows, Posters)","副武器(箭矢,符咒)"
 UI_TOOLTIP_INV_CLOTHES_1,Fashion hat,时装帽子
 UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,时装上衣
 UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,时装手套
 UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,时装鞋子
 UI_TOOLTIP_MON_LVL,Lv.,Lv.
-UI_TOOLTIP_MON_DROP,Booty:,战利品：
+UI_TOOLTIP_MON_DROP,Booty:,战利品:
 UI_TOOLTIP_MON_NO_DROP,None,无
 UI_MAP_MONINFO,Show monsters informations.,显示怪物的信息
 UI_TOOLTIP_DELETE_ITEM,The item dragged here is removed.,将物品拖到这里删除
@@ -241,10 +241,10 @@ UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,反弹伤害
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,MP消耗降低
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP消耗降低
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,施法速度
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,行动速度
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,投射物速度
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,控制效果
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,虚弱效果
 UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,暴击伤害
 UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),飞轮攻击力
 UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),弓箭攻击力
@@ -255,17 +255,17 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻击速率
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,生命偷取
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻击力和HP
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,防御力和命中率降低
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,致命突袭几率
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安库的收割
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆兰的愤怒
 UI_TOOLTIP_LOCOMOTION,Movement,移动
-UI_TOOLTIP_RETURN_USE,Return to your former position.,返回到移动前的位置
+UI_TOOLTIP_RETURN_USE,Return to your former position.,返回到移动前的位置。
 UI_DISPLAY_BUFFS,Show/hide buffs,显示/隐藏BUFF
 UI_SELECTJOB_TITLE,Select new job,选择新职业
 UI_NOTICE_DISCORD,Join our Discord server,加入我们的Discord服务器
 UI_TOOLTIP_COMBO,Use skills in the Action Slot,在连续快捷栏中使用技能
 UI_OPTION_ANTIALIAS,Antialiasing,抗锯齿
-UI_OPTION_LIGHTS,Lights,Lights
+UI_OPTION_LIGHTS,Lights,光照
 UI_TOOLTIP_HOTKEY,[Hotkey %s],[热键 %s]
 UI_STATUS_HP,HP,HP
 UI_STATUS_FP,FP,FP
@@ -282,7 +282,7 @@ UI_PARTY_NAME,Name:,名称:
 UI_PARTY_LEVEL,Level:,等级：
 UI_PARTY_POINT,Points:,点数：
 UI_PARTY_EXPSHARE,Exp Share,经验分配
-UI_PARTY_EXPMODE_LEVEL,Level,Level
+UI_PARTY_EXPMODE_LEVEL,Level,等级
 UI_PARTY_EXPMODE_LEVEL_TIP,Exp is distributed to the Party members according to their levels.,依等级之差来分配团员的经验值。
 UI_PARTY_EXPMODE_CONTRIB,Contribution,贡献分配
 UI_PARTY_EXPMODE_CONTRIB_TIP,"Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking.",根据团员在战斗中的贡献程度来分配经验值，例如输出，治疗和抗伤。
@@ -357,7 +357,7 @@ UI_CHATFILTER_WHISPER,Whisper,密语
 UI_CHATFILTER_SHOUT,Shout,呼喊
 UI_CHATFILTER_PARTY,Party,单幕剧团
 UI_CHATFILTER_GUILD,Guild,公会
-UI_CHATFILTER_RESET_COLORS,Reset Defaults,Reset Defaults
+UI_CHATFILTER_RESET_COLORS,Reset Defaults,恢复默认设置
 UI_POSTSEND_TO,Receiver,收件人
 UI_POSTSEND_TITLE,Title,称号
 UI_POSTSEND_GOLD,Penya,金币
@@ -373,8 +373,8 @@ UI_POST_RECEIVE_DATE,Date Received: %s,收到的日期：%s
 UI_POSTREAD_TITLE,Check Post Box,确认信件
 UI_POSTREAD_FROM,Sender,发件人
 UI_POSTREAD_DELETE,Delete,删除
-UI_POSTREAD_DELETE_ALL,Delete all read mails,Delete all read mails
-UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Delete selected mails? Items and penya will be deleted as well.
+UI_POSTREAD_DELETE_ALL,Delete all read mails,删除全部已读邮件
+UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,是否删除所选邮件？附件物品与金币将一并被删除。
 UI_POSTREAD_REPLY,Reply,回复
 UI_POSTREAD_DELETETITLE,Delete Mail,删除邮件
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Items and penya will be deleted as well.,要删除邮件吗？删除邮件的同时，里面的物品、金币与邮件会同时被删除。
@@ -389,12 +389,12 @@ UI_QUEST_LIST,Quest List,任务目录
 UI_QUEST_DETAIL,Quest Details,任务内容
 UI_QUEST_REWARDS,Reward List,可获得的奖励
 UI_QUEST_CONDITIONS,Quest Condition,任务条件
-UI_QUEST_GOLD1,Penya: %d,金币 ： %d
-UI_QUEST_GOLD2,Penya: %d~%d,金币 ： %d~%d
-UI_QUEST_GOLD3,Penya: ????,金币 ： ????
-UI_QUEST_EXP1,Experience Gained.,提供经验值
+UI_QUEST_GOLD1,Penya: %d,金币： %d
+UI_QUEST_GOLD2,Penya: %d~%d,金币： %d~%d
+UI_QUEST_GOLD3,Penya: ????,金币： ????
+UI_QUEST_EXP1,Experience Gained.,获得经验值
 UI_QUEST_EXP2,Experience: %.2f%%,经验：%.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,伴侣经验: %.2f%%
 UI_QUEST_SKILLPOINT,Skill points,技能点数
 UI_QUEST_INVENTORYSLOT1,Inventory Space,背包空间
 UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,背包空间：%d
@@ -416,7 +416,7 @@ UI_QUEST_DISGUISE,Transformed into %s,变身成%s
 UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,%s 技能等级 #b(%d/%d)#nb
 UI_QUEST_KARMA_POINT,Karma Point #b(%d %s %d)#nb,罪恶值 #b(%d %s %d)#nb
 UI_QUEST_PARTY_SOLO,Going solo,非剧团状态
-UI_QUEST_PARTY,Create party,组织剧团
+UI_QUEST_PARTY,Create party,创建剧团
 UI_QUEST_PARTY_LEADER,Party Leader,剧团团长
 UI_QUEST_PARTY_MEMBER,Non-Party Leader,非剧团团长
 UI_QUEST_PARTY_NUM,Number of Party Members #b(%d %s %d)#nb,剧团成员数 #b(%d %s %d)#nb
@@ -435,7 +435,7 @@ UI_QUEST_DIALOG,Chat with #cff78e12f%s#nc,与 #cff78e12f%s#nc对话
 UI_QUEST_DESTINATION,#bMeet #cff78e12f%s#nc#nb,#b找到 #cff78e12f%s#nc#nb
 UI_QUEST_CANCEL_CONFIRM,Are you going to cancel the quest?,确定要取消任务吗？
 UI_CONFIRMATION,Confirmation,确认
-UI_QUEST_DESTINATION_TITLE,Destination,目的地情报
+UI_QUEST_DESTINATION_TITLE,Destination,目的地
 UI_MSGBOX_INFO,Information,信息
 UI_OPTION_UIALPHA,Opacity,界面透明度
 UI_QUESTGOAL,Quest Goal,任务目标
@@ -444,7 +444,7 @@ UI_GUILD_TAB_MEMBER,Members,成员
 UI_GUILD_TAB_GRADE,Titles,称号
 UI_GUILD_TAB_WAR,Guild Duel,公会战
 UI_GUILD_NAME,Name:,名称:
-UI_GUILD_NAME_BUTTON,Name,Name
+UI_GUILD_NAME_BUTTON,Name,名称
 UI_GUILD_MASTER,Master:,会长:
 UI_GUILD_EXP,Exp:,经验值：
 UI_GUILD_PENYA,Penya:,金币：
@@ -479,7 +479,7 @@ UI_GUILD_POWER_RANK,Rank,排名
 UI_GUILD_POWER_JOIN,Join,加入
 UI_GUILD_POWER_ITEM,Item,物品
 UI_GUILD_POWER_PENYA,Penya,金币
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
+UI_GUILD_POWER_SPECTATE,Spectate,观战
 UI_GUILD_POWER_TIP,Apply Settings,应用设置
 UI_GUILD_POWER_SAVE,Save,保存
 UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),设置 %s 支付.(将在00：00自动支付)
@@ -518,7 +518,7 @@ UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,移除
 UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,金币进帐
 UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,支出金币
 UI_MOVEPENYA_TITLE,Transfer Penya,转账
-UI_MOVEPENYA_QUESTION,How many do you want to move?,请问要移动多少钱
+UI_MOVEPENYA_QUESTION,How many do you want to move?,请问要移动多少钱？
 UI_MOVEPENYA_INPUT,Penya:,金币：
 UI_GUILDRANK_TITLE_GUILD,Guild Ranking,公会排名
 UI_GUILDRANK_TITLE_INFO,Other Ranking,其他排名
@@ -547,9 +547,9 @@ UI_GUILD_WAR_GAVEUP,Gave Up:,公会战投降次数：
 UI_GUILD_WAR_TIMELEFT,Time Left:,剩余时间：
 UI_OPTION_THEME,Theme,主题
 UI_HOME_PROLOGUE,Prologue,序言
-UI_SKILL_PLUS_TIP,Upgrade Skill Level,上升技能等级
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
-UI_SKILL_MINUS_TIP,Downgrade Skill Level,减少技能等级
+UI_SKILL_PLUS_TIP,Upgrade Skill Level,提升技能等级
+UI_SKILL_MAX_TIP,Maximize Skill Level,最高技能等级
+UI_SKILL_MINUS_TIP,Downgrade Skill Level,降低技能等级
 UI_SKILL_RESET,Reset,重置
 UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),再分配技能点数(不可结束的技能点数)
 UI_SKILL_SAVE,Finish,完成
@@ -579,18 +579,18 @@ UI_DROP_FILTER_5,Element Card,属性卡
 UI_DROP_FILTER_6,Socket Card,穿洞卡片
 UI_DROP_FILTER_7,Quest,任务
 UI_DROP_FILTER_8,Booty,战利品
-UI_DROP_FILTER_CAT_MATERIAL,Material ,Material 
+UI_DROP_FILTER_CAT_MATERIAL,Material ,材料 
 UI_DROP_FILTER_9,Food,餐饮店
-UI_DROP_FILTER_10,FP Potion,FP Potion
+UI_DROP_FILTER_10,FP Potion,FP药水
 UI_DROP_FILTER_11,Buff,状态
-UI_DROP_FILTER_12,Pet,Pet
+UI_DROP_FILTER_12,Pet,宠物
 UI_DROP_FILTER_13,Etc...,Etc...
 UI_DROP_FILTER_CAT_ETC,Etc,其他
 UI_DROP_FILTER_14,Common,普通
 UI_DROP_FILTER_15,Uncommon,精良
 UI_DROP_FILTER_16,Rare & Higher,Rare & Higher
 UI_DROP_FILTER_17,Uncommon & Higher,Uncommon & Higher
-UI_DROP_FILTER_19,MP Potion,MP Potion
+UI_DROP_FILTER_19,MP Potion,MP药水
 UI_DROP_FILTER_APPLY,Apply,应用
 UI_TOOLTIP_ITEMTIME,Time Left:,剩余时间:
 UI_TOOLTIP_USE,Use: %s,使用: %s
@@ -774,7 +774,7 @@ UI_CREATEITEM_TITLE,Create Item,新创物品
 UI_CREATEITEM_TYPE,Type,种类
 UI_CREATEITEM_SEX,Sex,性别
 UI_CREATEITEM_JOB,Job,职业
-UI_CREATEITEM_LEVEL,Level,Level
+UI_CREATEITEM_LEVEL,Level,等级
 UI_CREATEITEM_QTY,Qty,数量:
 UI_CREATEITEM_ITEM,Item,物品
 UI_CREATEITEM_CREATE,Create,制作
@@ -793,7 +793,7 @@ UI_SUMMON_FRIEND_CONFIRM,%s asked to summon you. Would you like to accept?,%s �
 UI_FONT_EDIT_TITLE,Modify Letter Type,编辑文字属性
 UI_FONT_EDIT_BOLD,Bold,加粗
 UI_FONT_EDIT_LINE,Line,加线
-UI_FONT_EDIT_COLOR,Color,适用色相
+UI_FONT_EDIT_COLOR,Color,颜色
 UI_FONT_EDIT_CANCELLINE,Cancel Line,取消线
 UI_FONT_EDIT,Letter Edit,文字编辑
 UI_SUMMON_PARTY_TITLE,Summon Party,召唤剧团
@@ -1718,13 +1718,13 @@ UI_TICKETCHANNEL,Layer ,层
 UI_TICKETLEAVE,Leave Area,离开地区
 UI_TARGETITEMLEVEL,Required Target Level: %d,所需目标等级: %d
 UI_DUNGEON_REQ_ITEM,Required Items:,所需物品：
-UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,每日最高入场次数: %d / %d
-UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,拾取分配
-UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.",为以上物品roll一个随机数，或者如果你不感兴趣，点击略过。计时器结束后，随机数字最高的玩家将获得该物品。
+UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,每日最大入场次数: %d / %d
+UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,掉落分配
+UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.",请为上方物品掷出一个随机点数；若不感兴趣可选择放弃。倒计时结束后，点数最高的玩家将获得该物品。
 UI_DROP_DISTRIBUTE_ROLL,Need,需要
-UI_DROP_DISTRIBUTE_PASS,Pass,略过
-UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,为以上物品roll一个随机数，随机数字最高的玩家将获得该物品。
-UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,略过该物品，如果你对它不感兴趣。
+UI_DROP_DISTRIBUTE_PASS,Pass,放弃
+UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,请掷点赢得此物品。点数最高者获胜。
+UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,若对此物品不感兴趣，请选择放弃。
 UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s 获得了该物品。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,A player who is no longer available has been mailed the item.,A player who is no longer available has been mailed the item.
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,物品: %d/%d
@@ -1773,11 +1773,11 @@ UI_COSTUMECOLLECTION_GRP3,Event costumes,Event costumes
 UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),Spy\nCostume Set\n(7Days)
 UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),Giraffe\nCostume Set\n(7Days)
 UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),Steam Punk\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_PART1,Hat,Hat
+UI_COSTUMECOLLECTION_PART1,Hat,帽子
 UI_COSTUMECOLLECTION_PART2,Suit,衣服
 UI_COSTUMECOLLECTION_PART3,Gloves,手套
 UI_COSTUMECOLLECTION_PART4,Boots,靴子
-UI_ACHIEVEMENTS_SUBMITBTN,Submit,Submit
+UI_ACHIEVEMENTS_SUBMITBTN,Submit,提交
 UI_ACHIEVEMENTS_SUBMITTIP,Submit your costumes!,Submit your costumes!
 UI_BATTLEPASS_MISSION_SAFETYALL,Try Safe Upgrade or Piercing,Try Safe Upgrade or Piercing
 UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Upgrade Rate
@@ -3263,15 +3263,15 @@ UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
 UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
-UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
+UI_SKILL_PAGE_SELECT,Select your skill page:,选择你的技能页:
 UI_TOOLTIP_DST_MOBEXP,Monsters experience gain,Monsters experience gain
 UI_TOOLTIP_DST_MOBEXPDROP,Monsters experience/drop gain,Monsters experience/drop gain
 UI_TOOLTIP_TENACITY,Tenacity,Tenacity
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff持续时间
 UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to equip the same ultimate jewel
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
-UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
-UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_TOOLTIP_WARDROBE_YES,In your wardrobe,在衣橱中
+UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,不在衣橱中
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

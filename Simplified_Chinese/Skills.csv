@@ -557,15 +557,15 @@ PROPSKILL_TXT_150055,Swift Hands,迅手
 PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,使用非魔法技能时，你的行动速度提升。
 PROPSKILL_TXT_150057,Eagle Eye,鹰眼
 PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,召唤内在的雄鹰之力，提升弓箭射程。
-PROPSKILL_TXT_150059,Arcane Enchantment,Arcane Enchantment
-PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Provide Elemental status to the skills..
-PROPSKILL_TXT_150061,Increased Element,Increased Element
-PROPSKILL_TXT_150062,Decreased Element,Decreased Element
-PROPSKILL_TXT_150063,Elemental Debuff,Elemental Debuff
-PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
-PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,You can ignore one instance of disable or weaken debuffs
-PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
-PROPSKILL_TXT_150067,Additional Shield,Additional Shield
+PROPSKILL_TXT_150059,Arcane Enchantment,奥术附魔
+PROPSKILL_TXT_150060,Provide Elemental status to the skills..,为技能赋予元素属性状态。
+PROPSKILL_TXT_150061,Increased Element,元素强化
+PROPSKILL_TXT_150062,Decreased Element,元素弱化
+PROPSKILL_TXT_150063,Elemental Debuff,元素减益效果
+PROPSKILL_TXT_150064,Laughter of La Croix,La Croix的笑声
+PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,你可以无视一次控制或虚弱类减益效果。
+PROPSKILL_TXT_150066,Successfull Debuff,减益生效
+PROPSKILL_TXT_150067,Additional Shield,额外护盾
 PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的诅咒
 PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.",以奇美拉之灵诅咒目标，对其造成伤害并将其变异为独眼蝙蝠。变异期间目标无法攻击。该技能在完全蓄力后，成功概率将提升30%。
 PROPSKILL_TXT_150071,Full charge duration increase,完全蓄力持续时间增加
@@ -589,13 +589,13 @@ PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpo
 PROPSKILL_TXT_150090,Additional damage disable,额外控制伤害
 PROPSKILL_TXT_150091,Additional damage weaken,额外虚弱伤害
 PROPSKILL_TXT_150092,Debuff Damage Reduction,额外减益效果减伤
-PROPSKILL_TXT_150093,Shield Crush,Shield Crush
-PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,Swing your shield to stun enemies with a certain chance.
-PROPSKILL_TXT_150095,Increased Range,Increased Range
-PROPSKILL_TXT_150096,Quick Stun,Quick Stun
-PROPSKILL_TXT_150097,Forceful Attack,Forceful Attack
-PROPSKILL_TXT_150098,Maelstrom Strike,Maelstrom Strike
-PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun."
+PROPSKILL_TXT_150093,Shield Crush,破盾重击
+PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,挥舞你的盾牌，有一定概率击晕敌人。
+PROPSKILL_TXT_150095,Increased Range,距离提升
+PROPSKILL_TXT_150096,Quick Stun,迅速击晕
+PROPSKILL_TXT_150097,Forceful Attack,强力打击
+PROPSKILL_TXT_150098,Maelstrom Strike,漩涡打击
+PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","发动旋转攻击，释放一股旋风，对附近敌人造成两次打击并有概率触发击晕效果。"
 PROPSKILL_TXT_150100,Enhance Stun,Enhance Stun
 PROPSKILL_TXT_150101,Quick Stun,Quick Stun
 PROPSKILL_TXT_150103,Templar's Call,Templar's Call
@@ -815,8 +815,8 @@ PROPSKILL_TXT_150244,Kyrie Eleison,怜恤祷言
 PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150249,Flow of Salvation,神佑流转
 PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.",向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。
-PROPSKILL_TXT_150251,Increased Healing,Increased Healing
-PROPSKILL_TXT_150253,Increased Chain,Increased Chain
+PROPSKILL_TXT_150251,Increased Healing,治疗量强化
+PROPSKILL_TXT_150253,Increased Chain,连携强化
 PROPSKILL_TXT_150254,Hymn - Damage Reduction,圣歌 - 伤害减免
 PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.",吟唱圣歌期间，自身获得额外伤害减免效果。
 PROPSKILL_TXT_150256,Hymn - Perfect Performance,圣歌 - 完美演绎
@@ -857,7 +857,7 @@ PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of
 PROPSKILL_TXT_150297,Casting Time Reduction,Casting Time Reduction
 PROPSKILL_TXT_150298,Range Enhancement,Range Enhancement
 PROPSKILL_TXT_150300,Enlightenment,Enlightenment
-PROPSKILL_TXT_150301,Increases knuckle damage.,Increases knuckle damage.
+PROPSKILL_TXT_150301,Increases knuckle damage.,提升拳套伤害。
 PROPSKILL_TXT_150302,Quick Movement,Quick Movement
 PROPSKILL_TXT_150303,Critical Damage,暴击伤害
 PROPSKILL_TXT_150304,Knuckle Power,Knuckle Power
@@ -872,8 +872,8 @@ PROPSKILL_TXT_150320,Meditate,冥想
 PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel."
 PROPSKILL_TXT_150322,Deep Meditation,深度冥想
 PROPSKILL_TXT_150323,Adamantine Body,Adamantine Body
-PROPSKILL_TXT_150324,Nen Mastery,念力精通
-PROPSKILL_TXT_150325,Nen Storage,念力蓄积
+PROPSKILL_TXT_150324,Nen Mastery,念气精通
+PROPSKILL_TXT_150325,Nen Storage,念气蓄积
 PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,Nen-consuming skills may consume only half the required stacks.
 PROPSKILL_TXT_150327,Mental Unity,Mental Unity
 PROPSKILL_TXT_150328,Reduces the maximum MP penalty from Nen stacks.,Reduces the maximum MP penalty from Nen stacks.

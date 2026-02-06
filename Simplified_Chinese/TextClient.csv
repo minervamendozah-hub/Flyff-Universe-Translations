@@ -3,12 +3,12 @@ TEXTCLIENT_CONNECTING,Connecting. Please wait.,正在连接，请稍候。
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,无法连接，请确认网络状态
 TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,游戏已更新，请关闭页面并重新打开。
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,服务器标识符错误
-TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.",哎呀，发生了一点预期之外的错误，请再试一次哦^^
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.",未知错误，请重试
 TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,您的帐号已登录。
 TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,是否要断开其他设备的连接？
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,设备正在断开连接。请在10秒钟后再次登录。
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.",频道已满，请稍候或选择其他频道。
-TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,该角色名已被占用，请重新输入角色名
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,角色名已被占用。
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,巨大怪物出现！
 TEXTCLIENT_APP_MAP,World Map,世界地图
 TEXTCLIENT_APP_OPTION,Options,设置
@@ -25,7 +25,7 @@ TEXTCLIENT_LOGOUT,Do you want to disconnect?,要结束与此服务器的连接�
 TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000你会失去你的游客角色。#nc 请关联一个账号。
 TEXTCLIENT_EXIT,Do you want to exit the program?,要结束游戏程式吗
 TEXTCLIENT_DISCONNECTED,Disconnected from the server.,与服务器连接中断
-TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,这个服务器不能创建角色哦
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,该服务器无法创建角色。
 TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,似乎有一股邪恶的力量遮蔽了您在这个地区的视野
 TEXTCLIENT_ITEM_DESC,Description:,描述:
 TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,这个名字里面存在违规字符哦 
@@ -111,10 +111,10 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,加强了攻击模式
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,您没有装备符合此技能的装备。
 TEXTCLIENT_REQFP,Not enough FP.,FP不足。
 TEXTCLIENT_REQMP,Not enough MP.,MP不足。
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,HP不足。
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,因障碍物阻挡无法攻击。
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,需要 %s 技能等级 %d。
-TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s 技能等级提高了。
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s 技能等级提升。
 TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,个人商店
 TEXTCLIENT_APP_QUEST,Quests,任务
 TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,游戏商店
@@ -134,25 +134,25 @@ TEXTCLIENT_APP_FITTINGROOM,Fitting Room,试衣间
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,维基百科
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,胖胖
 TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,您不能在公会战场中发起剧团邀请。
-TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,进行剧团PvP时，无法招募剧团成员
-TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,战斗期间不允许加入剧团
-TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,战斗中无法加入公会
-TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,战斗中无法邀请加入剧团
-TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,无法邀请在其他线路的玩家
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,进行剧团对战时，无法招募剧团成员。
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,战斗期间不允许加入剧团。
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,战斗中无法加入公会。
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,战斗中无法邀请加入剧团。
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,无法邀请在其他线路的玩家。
 TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s属于其它剧团。
 TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s 已经在你的剧团中了。
-TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,无法加入到剧团中
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,无法加入到剧团。
 TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s 拒绝加入剧团。
 TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s 目前不接受剧团邀请
-TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,只有团长才能招募团员
-TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,已达到最多 8 名玩家的剧团人数上限
-TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,加入剧团失败
-TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,加入公会失败
-TEXTCLIENT_PARTYCREATE,Party has been created.,剧团成立了
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,只有团长才能招募团员。
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,已达到最多8名玩家的剧团人数上限。
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,加入剧团失败。
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,加入公会失败。
+TEXTCLIENT_PARTYCREATE,Party has been created.,剧团成立了。
 TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s 加入了剧团。
 TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s 离开了剧团。
 TEXTCLIENT_PARTYEXIT,You have left the party.,您退出了剧团。
-TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,剧团解散了
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,剧团解散了。
 TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,您将这个地方设定为复活点。
 TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,您不是团长或必须从剧团窗口内选择团员。
 TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,无法把团长交给离线状态的玩家
@@ -210,7 +210,7 @@ TEXTCLIENT_ASS_FAME06,Crusader,光明使者
 TEXTCLIENT_ASS_FAME07,Chaplain,圣教士
 TEXTCLIENT_ASS_FAME08,Luminary,光明使者
 TEXTCLIENT_ASS_FAME09,Prophet,预言主教
-TEXTCLIENT_ASS_FAME10,Oracle,Oracle
+TEXTCLIENT_ASS_FAME10,Oracle,神谕使者
 TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,此玩家已登入在好友名单中
 TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,您正在询问%s是否愿意加入好友好友名单中
 TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,您不能在公会战场内添加好友。
@@ -1499,7 +1499,7 @@ UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
-TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_APP_ACCOUNT,Account,账号
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Item destroyed due to the failure.
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
@@ -1534,16 +1534,16 @@ TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping 
 TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
 TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
 TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
-TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,你可在 %d 秒后切换技能页。
 TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
-TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,转职任务过程中无法使用该道具。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s 成功精炼终极 %s 至 %s+%d!
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
-TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
-TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
-TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
-TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
-TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,你已恢复在副本中损失的经验值。
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,无法使用，因为你已通过完成副本恢复了经验值。
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,当你们身处同一副本时，你无法将团员移出剧团。
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,你无法将团长权限移交给不在同一副本内的队员。
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,作为队长，你在副本内无法离开队伍。

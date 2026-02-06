@@ -16,13 +16,13 @@ PROPMAP_TXT_000242,Dungeon,副本
 PROPMAP_TXT_000263,Mars Dungeon,魔域密殿
 PROPMAP_TXT_000265,Dekane Mine,达肯矿洞
 PROPMAP_TXT_000266,Iblis Temple,幻魔依普利神殿
-PROPMAP_TXT_000274,Forsaken Tower 1F,深渊之塔 1层
-PROPMAP_TXT_000275,Forsaken Tower 2F,深渊之塔 2层
-PROPMAP_TXT_000276,Forsaken Tower 3F,深渊之塔 3层
-PROPMAP_TXT_000277,Forsaken Tower 4F,深渊之塔 4层
-PROPMAP_TXT_000278,Forsaken Tower 5F,深渊之塔 5层
-PROPMAP_TXT_000279,Forsaken Tower 6F,深渊之塔 6层
-PROPMAP_TXT_000280,Forsaken Tower 7F,深渊之塔 7层
+PROPMAP_TXT_000274,Forsaken Tower 1F,深渊之塔1层
+PROPMAP_TXT_000275,Forsaken Tower 2F,深渊之塔2层
+PROPMAP_TXT_000276,Forsaken Tower 3F,深渊之塔3层
+PROPMAP_TXT_000277,Forsaken Tower 4F,深渊之塔4层
+PROPMAP_TXT_000278,Forsaken Tower 5F,深渊之塔5层
+PROPMAP_TXT_000279,Forsaken Tower 6F,深渊之塔6层
+PROPMAP_TXT_000280,Forsaken Tower 7F,深渊之塔7层
 PROPMAP_TXT_100000,Kebaras,卡巴拉斯
 PROPMAP_TXT_100001,North-Fl,帕里北广场
 PROPMAP_TXT_100002,Cen Flarine,帕里中心
@@ -44,7 +44,7 @@ PROPMAP_TXT_100017,Arians,千泪湖
 PROPMAP_TXT_100018,Deadwallderness,龙息荒野
 PROPMAP_TXT_100019,Brekin,铸炼之地
 PROPMAP_TXT_100020,Guardiane,圣堂
-PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),达肯2区(渴望洞穴)
+PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),达肯2区 (渴望洞穴)
 PROPMAP_TXT_100022,Clockworks' Cage,囚禁之地
 PROPMAP_TXT_100023,Erons Factories,开采场
 PROPMAP_TXT_100024,Gouthan Mountains,永恒森林
@@ -59,7 +59,7 @@ PROPMAP_TXT_100034,Quiz,测验
 PROPMAP_TXT_100035,Village of Kan,勇者营地
 PROPMAP_TXT_100036,Area,地区
 PROPMAP_TXT_100037,Saint Morning Station,晨光站
-PROPMAP_TXT_100038,Garden of Rhisis II,莱斯庭院 II
+PROPMAP_TXT_100038,Garden of Rhisis II,莱斯庭院II
 PROPMAP_TXT_100039,Cave of Envy,渴望洞穴
 PROPMAP_TXT_100040,Darkon 2,达肯2区
 PROPMAP_TXT_100041,Volkane,熔岩秘境
@@ -154,6 +154,6 @@ PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
 PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
 PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
 PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
-PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
+PROPMAP_TXT_200035,The Wilds (Infernal),荒野 (地狱)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),安库的庇护所 (剧情模式)
 PROPMAP_TXT_200037,Seabed,沉没之地
