@@ -2628,7 +2628,7 @@ UI_ALL,All,Todo
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Tiempo Pendiente
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,El objetos se utiliza inmediatamente.
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,El objeto se utiliza inmediatamente.
 UI_LIFE_MASTERY_ORDINALY_HERB,Herb that you can see anywhere. You can obtain Common Herbs.,Herb that you can see anywhere. You can obtain Common Herbs.
 UI_LIFE_MASTERY_REGULAR_HERB,Regular looking herb. You can obtain Common-Uncommon Herbs.,Regular looking herb. You can obtain Common-Uncommon Herbs.
 UI_LIFE_MASTERY_ORDINALY_TREE,Tree that you can see anywhere. You can obtain Common Trees.,Tree that you can see anywhere. You can obtain Common Trees.
