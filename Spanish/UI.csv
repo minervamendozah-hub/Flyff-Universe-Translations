@@ -2372,7 +2372,7 @@ UI_MENU_SAVE,Save changes,Guardar Cambios
 UI_MENU_EDIT,Edit the menu,Editar el menú
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,No especificado
-UI_OPTION_KEYREPEAT,Holding Keys,Sosteniendo llaves
+UI_OPTION_KEYREPEAT,Holding Keys,Sosteniendo teclas
 UI_DELETEACCOUNT_TITLE,Delete Account,Eliminar Cuenta
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,¿Deseas continuar?
