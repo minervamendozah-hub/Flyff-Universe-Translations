@@ -1,0 +1,5 @@
+﻿#bItem Upgrading#nb
+
+Il potenziamento di un oggetto ne aumenta le statistiche di base e ne migliora la potenza complessiva e/o le difese.
+#cffff0000L'uso di una pergamena protettiva garantisce che il tuo oggetto non possa essere distrutto durante il processo.
+Pergamene Basso S-Protezione ridurranno il livello di potenziamento in caso di fallimento.#nc
