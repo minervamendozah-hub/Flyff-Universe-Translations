@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Stai imparando nuovi 
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Devi equipaggiare l'arma o l'oggetto corretto per usare quell'abilità.
 TEXTCLIENT_REQFP,Not enough FP.,Non abbastanza FP.
 TEXTCLIENT_REQMP,Not enough MP.,Non abbastanza MP.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,Non abbastanza HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,L'azione è stata bloccata da un ostacolo..
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,È necessario %s livello di abilità %d.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s livello di abilità aumentato.
@@ -1085,7 +1085,7 @@ TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rai
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,You've already applied for the next race.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,The Rainbow Race was not held due to lack of participants.
 TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Conversion Succesful!
-TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Not enough Material.
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Non abbastanza Materiale.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,This item has reached its maximum upgrade level.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,The upgrade has been a great failure.
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,Upgrade great success!
@@ -1256,9 +1256,9 @@ TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You m
 TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
 TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
-TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
-TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
-TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Il tuo account è stato eliminato con successo.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,La tua password non è valida.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Non abbastanza %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,In
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Non abbastanza penya.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
@@ -1482,7 +1482,7 @@ TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agi
 TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
 TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
 TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
-TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Impossibile rivelare una ricetta.
 TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
 TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
 TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.

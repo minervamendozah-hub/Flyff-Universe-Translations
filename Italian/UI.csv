@@ -13,51 +13,51 @@ UI_HOME_CREDITS,Credits,Credits
 UI_HOME_OR,Or,Or
 UI_HOME_LOGIN_DOTS,Email:,Email:
 UI_HOME_PASSWORD,Password:,Password:
-UI_HOME_RECOVER,Forgot password?,Forgot password?
+UI_HOME_RECOVER,Forgot password?,Hai dimenticato la password?
 UI_SELECTSERVER_TITLE,Select Server,Select Server
-UI_SELECTSERVER_BACK,Back,Back
-UI_SELECTSERVER_NEXT,Next,Next
-UI_SELECTSERVER_FULL,full,full
+UI_SELECTSERVER_BACK,Back,Indietro
+UI_SELECTSERVER_NEXT,Next,Avanti
+UI_SELECTSERVER_FULL,full,pieno
 UI_SELECTSERVER_BUSY,busy,busy
 UI_SELECTSERVER_BEST,best,best
-UI_SELECTSERVER_NEWNAME,Please enter another name:,Please enter another name:
-UI_SELECTSERVER_NAMETITLE,Character Name,Character Name
+UI_SELECTSERVER_NEWNAME,Please enter another name:,Inserisci un altro nome:
+UI_SELECTSERVER_NAMETITLE,Character Name,Nome del personaggio
 UI_CHARLIST_TITLE,Characters,Characters
 UI_CHARLIST_PLAY,Play,Play
-UI_CHARLIST_NEW,New,New
-UI_CHARLIST_DELETE,Delete,Delete
+UI_CHARLIST_NEW,New,Nuovo
+UI_CHARLIST_DELETE,Delete,Elimina
 UI_DELETECHAR_TITLE,Delete Character,Delete Character
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
-UI_DELETECHAR_NOPASS,Do you confirm?,Do you confirm?
+UI_DELETECHAR_NOPASS,Do you confirm?,Confermi?
 UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","If you delete a character, you cannot use its name during a week."
-UI_NEWCHAR_NAME,Name:,Name:
+UI_NEWCHAR_NAME,Name:,Nome:
 UI_NEWCHAR_GIRL,Girl,Girl
 UI_NEWCHAR_BOY,Boy,Boy
 UI_MSGBOX_START,Start,Start
 UI_MSGBOX_OK,Ok,Ok
 UI_MSGBOX_RETRY,Retry,Retry
 UI_MSGBOX_CANCEL,Cancel,Annulla
-UI_MSGBOX_YES,Yes,Yes
+UI_MSGBOX_YES,Yes,Sì
 UI_MSGBOX_NO,No,No
-UI_LOADINGSCREEN,"Loading, please wait...","Loading, please wait..."
+UI_LOADINGSCREEN,"Loading, please wait...","Caricamento, aspetta..."
 UI_OPTION_TITLE,Options,Opzioni
-UI_OPTION_MUSIC,Music,Music
-UI_OPTION_SOUND,Sound,Sound
+UI_OPTION_MUSIC,Music,Musica
+UI_OPTION_SOUND,Sound,Suono
 UI_OPTION_TEXQUALITY,Textures,Textures
 UI_OPTION_TEXTOON,Cartoon,Cartoon
 UI_OPTION_TEXHIGH,High,High
 UI_OPTION_TEXMID,Medium,Medium
 UI_OPTION_TEXLOW,Low,Low
 UI_OPTION_WEATHER,Weather,Weather
-UI_OPTION_LANGUAGE,Language,Language
+UI_OPTION_LANGUAGE,Language,Lingua
 UI_OPTION_SAVE,Save,Save
 UI_NAVIGATOR_PLAYER,Player,Player
 UI_NAVIGATOR_PARTY,Party,Gruppo
 UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Monster
 UI_PRIVACY_NOTICE,Privacy Policy,Privacy Policy
-UI_MSGBOX_ACCEPT,Accept,Accept
-UI_MSGBOX_DECLINE,Decline,Decline
+UI_MSGBOX_ACCEPT,Accept,Accettare
+UI_MSGBOX_DECLINE,Decline,Declino
 UI_MSGBOX_CLOSE,Close,Close
 UI_OPTION_SHADOWS,Shadows,Shadows
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Maximum Distance
@@ -71,7 +71,7 @@ UI_REVIVAL_LODESTAR_TIP,Revive to Lodestar,Revive to Lodestar
 UI_REVIVAL_LODELIGHT,Lodelight,Lodelight
 UI_REVIVAL_LODELIGHT_TIP,Revive to Lodelight,Revive to Lodelight
 UI_CHARINFO_BASE,Base,Base
-UI_CHARINFO_NAME,Name,Name
+UI_CHARINFO_NAME,Name,Nome
 UI_CHARINFO_LOGIN,Login,Login
 UI_CHARINFO_JOB,Job,Job
 UI_CHARINFO_LEVEL,Level,Level
@@ -143,7 +143,7 @@ UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,Fashion gloves
 UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,Fashion shoes
 UI_TOOLTIP_MON_LVL,Lv.,Lv.
 UI_TOOLTIP_MON_DROP,Booty:,Booty:
-UI_TOOLTIP_MON_NO_DROP,None,None
+UI_TOOLTIP_MON_NO_DROP,None,Nessuno
 UI_MAP_MONINFO,Show monsters informations.,Show monsters informations.
 UI_TOOLTIP_DELETE_ITEM,The item dragged here is removed.,The item dragged here is removed.
 UI_INVENTORY_DELETE,Drop confirmation,Drop confirmation
@@ -169,9 +169,9 @@ UI_SHOP_TITLE,Shop,Shop
 UI_SHOP_ITEMSLIST,Item List,Item List
 UI_TOOLTIP_PRICE,Price: %s,Price: %s
 UI_TOOLTIP_SELLPRICE,Selling Price: %s,Selling Price: %s
-UI_SHOP_FILTER,Search,Search
-UI_SHOP_LEVEL,By Level,By Level
-UI_SHOP_GENDER,By Gender,By Gender
+UI_SHOP_FILTER,Search,Ricerca
+UI_SHOP_LEVEL,By Level,Per livello
+UI_SHOP_GENDER,By Gender,Per genere
 UI_SHOP_ITEMPRICE,Item Price,Item Price
 UI_SELLITEM_TITLE,Selling Confirm,Selling Confirm
 UI_SELLITEM_CONFIRM,Really sell this item?,Really sell this item?
@@ -278,7 +278,7 @@ UI_HIDE,Hide,Hide
 UI_PARTY_INFO,Members,Members
 UI_PARTY_SKILL,Skills,Abilità
 UI_PARTY_SETTINGS,Settings,Settings
-UI_PARTY_NAME,Name:,Name:
+UI_PARTY_NAME,Name:,Nome:
 UI_PARTY_LEVEL,Level:,Level:
 UI_PARTY_POINT,Points:,Points:
 UI_PARTY_EXPSHARE,Exp Share,Exp Share
@@ -336,7 +336,7 @@ UI_OPTION_JOIN_NOTIFICATION,Message alarm,Message alarm
 UI_MESSENGER_MENU_MESSAGE,Message,Message
 UI_MESSENGER_MENU_UNBLOCK,Unblock,Unblock
 UI_MESSENGER_MENU_BLOCK,Block,Block
-UI_MESSENGER_MENU_DELETE,Delete,Delete
+UI_MESSENGER_MENU_DELETE,Delete,Elimina
 UI_MESSENGER_MENU_MOVE,Move,Move
 UI_MESSENGER_MENU_TAGSEND,Send a memo,Send a memo
 UI_MESSENGER_ADD_FRIEND,Add a new friend,Add a new friend
@@ -372,7 +372,7 @@ UI_POST_UNKNOWN,Unknown,Unknown
 UI_POST_RECEIVE_DATE,Date Received: %s,Date Received: %s
 UI_POSTREAD_TITLE,Check Post Box,Check Post Box
 UI_POSTREAD_FROM,Sender,Sender
-UI_POSTREAD_DELETE,Delete,Delete
+UI_POSTREAD_DELETE,Delete,Elimina
 UI_POSTREAD_DELETE_ALL,Delete all read mails,Delete all read mails
 UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Delete selected mails? Items and penya will be deleted as well.
 UI_POSTREAD_REPLY,Reply,Reply
@@ -383,8 +383,8 @@ UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s penya to rec
 UI_QUEST_CANCEL,Remove quest,Remove quest
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Cancel Quest in Progress
 UI_QUEST_ALLQUESTS,All Quests,All Quests
-UI_QUEST_INPROGRESS,In Progress,In Progress
-UI_QUEST_COMPLETED,Completed,Completed
+UI_QUEST_INPROGRESS,In Progress,In corso
+UI_QUEST_COMPLETED,Completed,Completato
 UI_QUEST_LIST,Quest List,Quest List
 UI_QUEST_DETAIL,Quest Details,Quest Details
 UI_QUEST_REWARDS,Reward List,Reward List
@@ -443,8 +443,8 @@ UI_GUILD_TAB_INFO,Info,Info
 UI_GUILD_TAB_MEMBER,Members,Members
 UI_GUILD_TAB_GRADE,Titles,Titles
 UI_GUILD_TAB_WAR,Guild Duel,Guild Duel
-UI_GUILD_NAME,Name:,Name:
-UI_GUILD_NAME_BUTTON,Name,Name
+UI_GUILD_NAME,Name:,Nome:
+UI_GUILD_NAME_BUTTON,Name,Nome
 UI_GUILD_MASTER,Master:,Master:
 UI_GUILD_EXP,Exp:,Exp:
 UI_GUILD_PENYA,Penya:,Penya:
@@ -616,8 +616,8 @@ UI_OPTION_FOV,FoV,FoV
 UI_OPTION_FOV_TIP,Field of View,Field of View
 UI_OPTION_ADVANCEDSFX,Special Effects,Special Effects
 UI_INFO_PANG_TUTORIAL,Tutorial,Tutorial
-UI_INFO_PANG_NEXT,Next,Next
-UI_INFO_PANG_DONE,Done,Done
+UI_INFO_PANG_NEXT,Next,Avanti
+UI_INFO_PANG_DONE,Done,Fatto
 UI_INFO_PANG_GOTIT,Got it,Got it
 UI_INFO_PANG_CHECKTHELIST,Check the List,Check the List
 UI_TUTORIAL_LIST_TITLE,Tutorial,Tutorial
@@ -640,7 +640,7 @@ UI_PERSONAL_SHOP_CHAT_USER,User,User
 UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Message
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Input
 UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Dialog
-UI_PERSONAL_SHOP_CHAT_INFO,Information,Information
+UI_PERSONAL_SHOP_CHAT_INFO,Information,Informazioni
 UI_PERSONAL_SHOP_CHAT_SEND,Send,Send
 UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s has just logged in.
 UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s has disconnected.
@@ -742,11 +742,11 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,%s loses the Duel!
 UI_CASHSHOP_RELOAD,TOP-UP,TOP-UP
 UI_CASHSHOP_LEGALINFO,Legal Information,Legal Information
 UI_CASHSHOP_GSC,General Sales Conditions,General Sales Conditions
-UI_CASHSHOP_SHOWALL,Show All,Show All
+UI_CASHSHOP_SHOWALL,Show All,Mostra tutto
 UI_CASHSHOP_SEARCH,Search:,Search:
 UI_CASHSHOP_SORT_DEFAULT,Default,Default
-UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Name (A - Z)
-UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Name (Z - A)
+UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Nome (A - Z)
+UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Nome (Z - A)
 UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Price (Low > High)
 UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Price (High > Low)
 UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb items in the category.
@@ -817,13 +817,13 @@ UI_CHANGE_NAME_PET_INPUT,Leave empty to reset to the default name,Leave empty to
 UI_CHANGE_NAME_PET_LABEL,Pet Name:,Pet Name:
 UI_NAVIGATOR_MARK,Mark:,Mark:
 UI_MAP_MARK_ADD,Add Mark,Add Mark
-UI_MAP_MARK_DELETE,Delete,Delete
-UI_MAP_MARK_DELETE_ALL,Delete All,Delete All
+UI_MAP_MARK_DELETE,Delete,Elimina
+UI_MAP_MARK_DELETE_ALL,Delete All,Elimina tutto
 UI_MAP_MARK_PUT_CHAT,Put it in the chat,Put it in the chat
-UI_MAP_MARK_CHANGE_NAME,Name Change,Name Change
+UI_MAP_MARK_CHANGE_NAME,Name Change,Cambio di nome
 UI_MAP_MARK,Position,Position
 UI_MAP_MARK_NAME_TITLE,Position Name Change,Position Name Change
-UI_MAP_MARK_NAME_INPUT,Please put new name,Please put new name
+UI_MAP_MARK_NAME_INPUT,Please put new name,Per favore inserisci il nuovo nome
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Equipped ]
 UI_TOOLTIP_ACTIVESELF,Also Casted on You,Also Casted on You
 UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Also Casted on Target
@@ -876,7 +876,7 @@ UI_APP_QUIT_TIP,Exit Program,Exit Program
 UI_APP_SUPPORT_TIP,Open the Customer Support.,Open the Customer Support.
 UI_APP_PRIVACY_TIP,Open the privacy tab.,Open the privacy tab.
 UI_APP_LOGOUT_TIP,Logout,Disconnettersi
-UI_APP_OPTION_TIP,Option,Option
+UI_APP_OPTION_TIP,Option,Opzioni
 UI_APP_MAP_TIP,A Map of the World,A Map of the World
 UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,A mini-map to help you find your way.
 UI_APP_NOTICE_TIP,Notice,Notice
@@ -928,17 +928,17 @@ UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Introduction,Guild Siege Introduction
 UI_GUILDCOMBAT_TELE_MSG,Entrance has started. Would you like to teleport to the Guild Siege arena?,Entrance has started. Would you like to teleport to the Guild Siege arena?
 UI_GUILDCOMBAT_JOIN_TITLE,Entering Guild Siege Arena,Entering Guild Siege Arena
 UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Do you join the Guild Siege?
-UI_NETWORK_ERROR_TITLE,Network Error,Network Error
+UI_NETWORK_ERROR_TITLE,Network Error,Errore di rete
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","A network error happened, please check your connection and login again."
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,You have entered the 1st zone.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,You have entered the 2nd zone.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,You have entered the 3rd zone.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,You have entered the 4th zone.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Sei entrato nella 1a zona.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Sei entrato nella seconda zona.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Sei entrato nella terza zona.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Sei entrato nella quarto zona.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Sei entrato nella quinto zona.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Sei entrato nella sesto zona.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Sei entrato nella settimo zona.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Sei entrato nella ottavo zona.
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Select the zone you wish to enter.
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Random
@@ -986,7 +986,7 @@ UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d win(s)
 UI_ROSHAMBO_DEFEAT,You Lose!,You Lose!
 UI_ROSHAMBO_WIN_TITLE,You Win!,You Win!
 UI_ROSHAMBO_WIN_END,End,End
-UI_ROSHAMBO_WIN_NEXT,Next,Next
+UI_ROSHAMBO_WIN_NEXT,Next,Avanti
 UI_ROSHAMBO_WIN_MSG,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -
 UI_ROSHAMBO_WIN_MSG2,Please Note: You will not receive your current prize if you choose to continue playing.,Please Note: You will not receive your current prize if you choose to continue playing.
 UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Congratulations, you won %d time(s)! You receive %s x%d."
@@ -1108,8 +1108,8 @@ UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of m
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
 UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bNext level %d#nb
-UI_CHANGECHANNEL_TITLE,Change Channel,Change Channel
-UI_CHANGECHANNEL_MSG,Select channel:,Select channel:
+UI_CHANGECHANNEL_TITLE,Change Channel,Cambia canale
+UI_CHANGECHANNEL_MSG,Select channel:,Seleziona canale:
 UI_REPORT_TITLE,Report,Report
 UI_REPORT_PLAYER_LABEL,Player,Player
 UI_REPORT_REASON_LABEL,Reason,Reason
@@ -1289,25 +1289,25 @@ UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Will you create a vendor?
 UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
 UI_TIMEINFO_TITLE,Info,Info
 UI_TIMEINFO_SERVER,Current Server,Current Server
-UI_TIMEINFO_TIME,Current Time,Current Time
+UI_TIMEINFO_TIME,Current Time,Ora corrente
 UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
 UI_TIMEINFO_SESSION,Session Duration,Session Duration
 UI_CHAT_TITLE,Chat,Chat
 UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Your Language
+UI_CHAT_VIEW_LANGUAGES,View Languages,Visualizza lingua
+UI_CHAT_YOUR_LANGUAGE,Your Language,La tua lingua
 UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
 UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
 UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
 UI_INVENTORY_UNLOCK,Unmark Favorite,Unmark Favorite
 UI_APP_EXTRABAG_TIP,Opens a second view of your inventory.,Opens a second view of your inventory.
-UI_INVENTORY_TAB_ALL,All,All
+UI_INVENTORY_TAB_ALL,All,Tutti
 UI_INVENTORY_TAB_GENERAL,General,Generale
 UI_INVENTORY_TAB_PET,Pet,Pet
 UI_INVENTORY_TAB_CLOTH,Cloth,Cloth
 UI_INVENTORY_TAB_QUEST,Quest,Quest
 UI_INVENTORY_DROP,Drop,Drop
-UI_INVENTORY_DELETE_BTN,Delete,Delete
+UI_INVENTORY_DELETE_BTN,Delete,Elimina
 UI_INVENTORY_ACTION_USE,Use,Use
 UI_INVENTORY_ACTION_EQUIP,Equip,Equip
 UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPC.,Cannot be sold to NPC.
@@ -1345,7 +1345,7 @@ UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
 UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
-UI_BOUNTYLIST_HEADER_NAME,Name,Name
+UI_BOUNTYLIST_HEADER_NAME,Name,Nome
 UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
 UI_BOUNTYLIST_HEADER_REWARD,Reward,Reward
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
@@ -1354,7 +1354,7 @@ UI_BOUNTYPOS_TITLE,Bounty Position,Bounty Position
 UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Are you sure you want to pay %s Penya to see %s's position?
 UI_APP_GACHA_TIP,Displays the Gacha Menu.,Displays the Gacha Menu.
 UI_GACHA_TITLE,Gacha,Preso
-UI_GACHA_OPEN,Open,Open
+UI_GACHA_OPEN,Open,Apri
 UI_GACHA_QUANTITY_MAX,Max,Max
 UI_GACHA_RESET,Reset,Reset
 UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot."
@@ -1369,7 +1369,7 @@ UI_GACHA_LASTITEM,Last item,Last item
 UI_GACHA_PREVIEW,PREVIEW,PREVIEW
 UI_GACHA_SOLDOUT,Sold out,Sold out
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Welcome to the world of		\nFlyff Online!
-UI_WELCOME_BTN,Let's go!,Let's go!
+UI_WELCOME_BTN,Let's go!,Andiamo!
 UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Incoming Damage
 UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Damage Redirection
@@ -1402,7 +1402,7 @@ UI_BINDING_MESSAGE,This item is now bound to your character.,This item is now bo
 UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Soul-Bound]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Can be unbound.
 UI_BINDING_TITLE,Binding,Binding
-UI_BINDING_CONFIRM,Do you want to continue?,Do you want to continue?
+UI_BINDING_CONFIRM,Do you want to continue?,Vuoi continuare?
 UI_UNBINDING_TITLE,Unbinding,Unbinding
 UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Confirm Unbinding
 UI_UNBINDING_MSG,Do you confirm the removal of #ball item improvements#nb to unbind the item?,Do you confirm the removal of #ball item improvements#nb to unbind the item?
@@ -1417,7 +1417,7 @@ UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#
 UI_EXPSTOP_RELOAD_LABEL,Monsters:,Monsters:
 UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Will you pay %s Penya to reload the Exp Lock gauge?
 UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Ranking
-UI_ARENA_RANKING_NAME,Name,Name
+UI_ARENA_RANKING_NAME,Name,Nome
 UI_ARENA_RANKING_LEVEL,Level,Level
 UI_ARENA_RANKING_JOB,Job,Job
 UI_ARENA_RANKING_KILLS,Kills,Kills
@@ -1509,10 +1509,10 @@ UI_CHAT_NOTALK,Mute,Mute
 UI_CHAT_TALK,Unmute,Unmute
 UI_CHAT_IGNORE,Ignore,Ignore
 UI_CHAT_UNIGNORE,Unignore,Unignore
-UI_SELECTSERVER_US,America,America
-UI_SELECTSERVER_EU,Europe,Europe
+UI_SELECTSERVER_US,America,Americano
+UI_SELECTSERVER_EU,Europe,Europa
 UI_SELECTSERVER_ASIA,Asia,Asia
-UI_SELECTSERVER_LABEL,Select your Server and Channel:,Select your Server and Channel:
+UI_SELECTSERVER_LABEL,Select your Server and Channel:,Seleziona il tuo server e canale:
 UI_GUILDBANK_BAGS,Bags,Bags
 UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,Use Guild Extra Bags to expand the Guild Bank.
 UI_UPGRADECARD_UNSAFE,Without Scroll of EProtect you will lose the item in case of failure.,Without Scroll of EProtect you will lose the item in case of failure.
@@ -1520,7 +1520,7 @@ UI_WORLD_LOCK,Locked,Locked
 UI_WORLD_UNLOCK,Unlocked,Unlocked
 UI_GUILD_LASTSEEN,Last Seen:,Last Seen:
 UI_PET_STAT,Stat,Stat
-UI_PET_STAT_NONE,None,None
+UI_PET_STAT_NONE,None,Nessuno
 UI_PET_ENERGY,Energy,Energy
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want to continue?,#bThe pet in the window will be destroyed.#nb Do you want to continue?
 UI_PET_TIER,Tier,Tier
@@ -2212,7 +2212,7 @@ UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
 UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
 UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Ceiling
 UI_HOUSINGSETUP_FILTER_WALL,Wall,Wall
-UI_PARTY_CHANGE_NAME,Name,Name
+UI_PARTY_CHANGE_NAME,Name,Nome
 UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
 UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,There are no Kalgas Assault scheduled.
 UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Can't enter Kalgas Assault.
@@ -2220,14 +2220,14 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
+UI_SUN,Sunday,domenica
+UI_MON,Monday,lunedì
+UI_TUE,Tuesday,martedì
+UI_WED,Wednesday,mercoledì
+UI_THU,Thursday,giovedì
+UI_FRI,Friday,venerdì
+UI_SAT,Saturday,sabato
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Informazioni sull'assalto di Kalgas
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
 UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
@@ -2241,7 +2241,7 @@ UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
 UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
+UI_KALGAS_ASSAULT_RANK_NAME,Name,Nome
 UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
@@ -2267,7 +2267,7 @@ UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
-UI_RAINBOWRACE_FRIEND_NAME,Name,Name
+UI_RAINBOWRACE_FRIEND_NAME,Name,Nome
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
 UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
@@ -2368,14 +2368,14 @@ UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
+UI_MENU_SAVE,Save changes,Salva le modifiche
+UI_MENU_EDIT,Edit the menu,Modifica il menu
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Do you confirm?
+UI_DELETEACCOUNT_TITLE,Delete Account,Elimina account
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password per l'eliminazione dell'account\nInserisci la password
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Confermi?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
@@ -2423,7 +2423,7 @@ UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
 UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
 UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
-UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Name
+UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nome
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
 UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
 UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Invite to Observers
@@ -2442,7 +2442,7 @@ UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
-UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
+UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Terzo posto
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
@@ -2452,8 +2452,8 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Oggi)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NESSUNO
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
@@ -2467,17 +2467,17 @@ UI_MATOURNAMENT_INFO,"Get a chance to win great riches in a Madrigal Tournament!
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered Teams: (Count: %d),Registered Teams: (Count: %d)
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,Random
 UI_MATOURNAMENT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered the 1st area.,You have entered the 1st area.
-UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered the 2nd area.,You have entered the 2nd area.
-UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered the 3rd area.,You have entered the 3rd area.
-UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,You have entered the 4th area.
-UI_MATOURNAMENT_JOINWAR_SELECT,Select the area you wish to enter.,Select the area you wish to enter.
+UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered the 1st area.,Sei entrato nella prima area.
+UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered the 2nd area.,Sei entrato nella seconda area.
+UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered the 3rd area.,Sei entrato nella terza area.
+UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,YSei entrato nella quarta area.
+UI_MATOURNAMENT_JOINWAR_SELECT,Select the area you wish to enter.,Seleziona l'area in cui desideri entrare.
 UI_MATOURNAMENT_JOINWAR_MSG,"After % d, you enter% s.","After % d, you enter% s."
 UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
 UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendario
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rank
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Reward
@@ -2486,7 +2486,7 @@ UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
 UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
-UI_MSGBOX_RECIEVE,Receive,Receive
+UI_MSGBOX_RECIEVE,Receive,Ricevere
 UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles."
 UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
 UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
@@ -2494,10 +2494,10 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rank
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Ultima data
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
-UI_MATOURNAMENT_BETTING_NOREWARD,None,None
+UI_MATOURNAMENT_BETTING_NOREWARD,None,Nessuno
 UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Remove
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
@@ -2539,13 +2539,13 @@ UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the ins
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
 UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Required Couple Points: %d
 UI_COUPLEBANK_TITLE,Couple Storage,Couple Storage
-UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topaz
-UI_ULTIMATE_JEWEL_RUBY,Ruby,Ruby
-UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Sapphire
-UI_ULTIMATE_JEWEL_EMERALD,Emerald,Emerald
-UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamond
-UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,Amethyst
-UI_ULTIMATE_JEWEL_ONYX,Onyx,Onyx
+UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topazio
+UI_ULTIMATE_JEWEL_RUBY,Ruby,Rubino
+UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Zaffiro
+UI_ULTIMATE_JEWEL_EMERALD,Emerald,Smeraldo
+UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamante
+UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,Ametista
+UI_ULTIMATE_JEWEL_ONYX,Onyx,Onice
 UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Compose Rainbow Ultimate Jewel,Compose Rainbow Ultimate Jewel
 UI_RAINBOW_ULTIMATE_JEWEL_INFO,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.
 UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
@@ -2577,7 +2577,7 @@ UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
 UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
+UI_LIFE_PRODUCTION_TAB,Production,Produzione
 UI_LIFE_TITLE,Life,Life
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
@@ -2610,13 +2610,13 @@ UI_TIMES,%d time(s),%d time(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
 UI_WAITING,Waiting,Waiting
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
+UI_LIFE_RECIPES,Recipes,Ricette
+UI_LIFE_RECIPES_CATEGORY,Category,Categorie
 UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nessuno ricetta selezionata
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
+UI_LIFE_PRODUCTION_TITLE,Production,Produzione
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
 UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
@@ -3116,7 +3116,7 @@ UI_BOSSRAID_BOSS_APPEAR_NOTICE_MIN,The monster will appear in %d minutes,The mon
 UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,The monster will appear in %d seconds
 UI_PVPMATCHRECAP_TITLE,Match Data,Match Data
 UI_PVPMATCHRECAP_TITLE_2,Match Result,Match Result
-UI_PVPMATCHRECAP_NAME,Name,Name
+UI_PVPMATCHRECAP_NAME,Name,Nome
 UI_PVPMATCHRECAP_JOB,Job,Job
 UI_PVPMATCHRECAP_LEVEL,Level,Level
 UI_PVPMATCHRECAP_WINNER,Winner,Winner
@@ -3164,7 +3164,7 @@ UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,Enter Bet Amount:
 UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s
 UI_TITLE_GUILDINFO,Guild Info,Guild Info
 UI_BTN_MEMBERS,Members,Members
-UI_CHARACTERNAME,Name,Name
+UI_CHARACTERNAME,Name,Nome
 UI_JOB,Job,Job
 UI_SERVER,Server,Server
 UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin Spent
@@ -3223,7 +3223,7 @@ UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthes
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
+UI_TOOLTIP_SWD,Sword,Spada
 UI_TOOLTIP_AXE,Axe,Axe
 UI_TOOLTIP_CHE,Stick,Stick
 UI_TOOLTIP_KNU,Knuckle,Knuckle
