@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Pet Candy Crafting #nb#nc
-Craft #bPet Candy#nb by combining berries with Penya. The tier of the Pet Candy depends on the berry used.
+﻿#b#cff0000ff Elaboración de Caramelos para Mascota #nb#nc
+Elabora #bCaramelos para Mascota#nb al combinar bayas y Penya. El grado de los Caramelos dependerá de la baya utilzada.
