@@ -1,2 +1,2 @@
-﻿#b#cff0000ffRemove Level Reduction#nb#nc
-Remove the level reduction from an item. #b#cffff0000This action cannot be undone.#nc#nb
+﻿#b#cff0000ffEliminar Reducción de Nivel#nb#nc
+Remueve la reducción de nivel de un objeto. #b#cffff0000Esta acción no se puede deshacer.#nc#nb
