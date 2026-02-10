@@ -1,12 +1,12 @@
-﻿#b Información de Rainbow Race #nb
-Rainbow Race es una competición de vuelo interactiva e intensa, abierta a todos los jugadores.
+﻿#b Información de la Carrera Arcoíris #nb
+La Carrera Arcoíris es una competición de vuelo interactiva e intensa, abierta a todos los jugadores.
 Los participantes deben usar su propia montura voladora durante la carrera.
 
 #iNota: La tarifa de solicitud no es reembolsable. Cada jugador debe traer su propia montura voladora.#ni
 
 Recompensas:
-  - Primer Lugar: Título, Montar, y Rainbow Race First Place Box.
-  - Segundo Lugar: Rainbow Race Second Place Box.
-  - Tercer lugar: Rainbow Race Third Place Box.
-  - Del cuarto al décimo lugar: Rainbow Race Honorable Box.
+  - Primer Lugar: Título, Montar, y Caja de Primer Lugar de la Carrera Arcoíris.
+  - Segundo Lugar: Caja de Segundo Lugar de la Carrera Arcoíris.
+  - Tercer lugar: Caja de Tercer Lugar de la Carrera Arcoíris.
+  - Del cuarto al décimo lugar: Caja Honorable de la Carrera Arcoíris.
   - Todos los demás participantes: Recompensa por participación.
