@@ -1,4 +1,4 @@
-﻿#bItem Piercing#nb
+﻿#bPerforación de Objetos#nb
 
-Piercing an item unlocks slots for piercing cards, which can greatly enhance the item's capabilities and power.
-#cffff0000Using a Scroll of GProtect prevents the item from being destroyed on failure.#nc
+Perforar un objeto desbloquea ranuras para cartas de perforación, las cuales pueden mejorar considerablemente las capacidades y el poder del objeto.
+#cffff0000Usar un Pergamino de Protección G evita que el objeto sea destruido en caso de fallo.#nc
